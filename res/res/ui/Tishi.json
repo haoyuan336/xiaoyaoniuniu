@@ -1,0 +1,504 @@
+{
+  "ID": "b22e1bec-93f0-4aba-99cf-a053c870e0f1",
+  "Version": "2.3.4",
+  "Name": "Tishi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 191,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 65,
+                "ActionTag": -912358068,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/tishiBg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 174,
+                "Scale9OriginY": 144,
+                "Scale9Width": 484,
+                "Scale9Height": 210,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.65,
+                  "Y": 0.6917
+                },
+                "LeftMargin": 224.0,
+                "RightMargin": 224.0,
+                "TopMargin": 111.0,
+                "BottomMargin": 111.0,
+                "Tag": 638,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 32,
+                    "LabelText": "亲爱的玩家，建议您选择微信登录。游客模式下的游戏数据在更换设备时将无法找回，确定登录吗",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/fonts/FZCY.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 61,
+                      "G": 55,
+                      "B": 55
+                    },
+                    "ShadowColor": {
+                      "R": 29,
+                      "G": 70,
+                      "B": 172
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 277.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 144,
+                      "G": 70,
+                      "B": 43
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5562
+                    },
+                    "PreSize": {
+                      "X": 0.639,
+                      "Y": 0.3968
+                    },
+                    "LeftMargin": 150.1704,
+                    "RightMargin": 150.1704,
+                    "TopMargin": 122.2039,
+                    "BottomMargin": 178.2039,
+                    "Tag": 234,
+                    "ActionTag": 564154279,
+                    "Size": {
+                      "X": 531.6591,
+                      "Y": 197.5923
+                    },
+                    "Name": "lb_content",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/button_g.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.6,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.1707
+                    },
+                    "PreSize": {
+                      "X": 0.3486,
+                      "Y": 0.1747
+                    },
+                    "LeftMargin": 104.6,
+                    "RightMargin": 437.4,
+                    "TopMargin": 369.5,
+                    "BottomMargin": 41.5,
+                    "Tag": 232,
+                    "Children": [
+                      {
+                        "FontSize": 36,
+                        "LabelText": "____确 定____",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZCY.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 61,
+                          "G": 55,
+                          "B": 55
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 145.0,
+                          "Y": 45.24
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.52
+                        },
+                        "PreSize": {
+                          "X": 0.7931,
+                          "Y": 0.4598
+                        },
+                        "LeftMargin": 30.0,
+                        "RightMargin": 30.0,
+                        "TopMargin": 21.76,
+                        "BottomMargin": 25.24,
+                        "Tag": 360,
+                        "ActionTag": 1929130340,
+                        "Size": {
+                          "X": 230.0,
+                          "Y": 40.0
+                        },
+                        "Name": "btn_name",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1447295663,
+                    "Size": {
+                      "X": 290.0,
+                      "Y": 87.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/button_o.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 582.4,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7,
+                      "Y": 0.1707
+                    },
+                    "PreSize": {
+                      "X": 0.3486,
+                      "Y": 0.1767
+                    },
+                    "LeftMargin": 437.4,
+                    "RightMargin": 104.6,
+                    "TopMargin": 369.0,
+                    "BottomMargin": 41.0,
+                    "Tag": 233,
+                    "Children": [
+                      {
+                        "FontSize": 36,
+                        "LabelText": "____取 消____",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZCY.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 61,
+                          "G": 55,
+                          "B": 55
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 145.0,
+                          "Y": 45.76
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.52
+                        },
+                        "PreSize": {
+                          "X": 0.7931,
+                          "Y": 0.4545
+                        },
+                        "LeftMargin": 30.0,
+                        "RightMargin": 30.0,
+                        "TopMargin": 22.24,
+                        "BottomMargin": 25.76,
+                        "Tag": 361,
+                        "ActionTag": -1315703079,
+                        "Size": {
+                          "X": 230.0,
+                          "Y": 40.0
+                        },
+                        "Name": "btn_name",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1694092112,
+                    "Size": {
+                      "X": 290.0,
+                      "Y": 88.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/tips_x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 768.0,
+                      "Y": 440.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9231,
+                      "Y": 0.8835
+                    },
+                    "PreSize": {
+                      "X": 0.0841,
+                      "Y": 0.1406
+                    },
+                    "LeftMargin": 733.0,
+                    "RightMargin": 29.0,
+                    "TopMargin": 23.0,
+                    "BottomMargin": 405.0,
+                    "Tag": 500,
+                    "ActionTag": -2108516052,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1553280598,
+                "Size": {
+                  "X": 832.0,
+                  "Y": 498.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/tishiBg.png",
+        "resources/button/button_g.png",
+        "resources/button/button_o.png",
+        "resources/button/tips_x.png",
+        "resources/fonts/FZCY.ttf",
+        "resources/transparent/transparent_1280x720.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

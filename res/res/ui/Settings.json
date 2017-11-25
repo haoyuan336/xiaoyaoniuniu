@@ -1,0 +1,842 @@
+{
+  "ID": "833a95bb-e12b-49e9-b6fb-3bdf2efe52a7",
+  "Version": "2.3.4",
+  "Name": "Settings",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 323,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 191,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 37,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/mainBg4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 159,
+                "Scale9OriginY": 108,
+                "Scale9Width": 514,
+                "Scale9Height": 282,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.65,
+                  "Y": 0.6917
+                },
+                "LeftMargin": 224.0,
+                "RightMargin": 224.0,
+                "TopMargin": 111.0,
+                "BottomMargin": 111.0,
+                "Tag": 32,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/yingzi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.003,
+                      "Y": 368.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5397,
+                      "Y": 0.739
+                    },
+                    "PreSize": {
+                      "X": 0.4868,
+                      "Y": 0.0964
+                    },
+                    "LeftMargin": 246.503,
+                    "RightMargin": 180.497,
+                    "TopMargin": 105.9998,
+                    "BottomMargin": 344.0002,
+                    "Tag": 921,
+                    "ActionTag": -303922704,
+                    "Size": {
+                      "X": 405.0,
+                      "Y": 48.0
+                    },
+                    "Name": "yingzi_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/huangtiao.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 100,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.0,
+                      "Y": 369.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5397,
+                      "Y": 0.741
+                    },
+                    "PreSize": {
+                      "X": 0.4724,
+                      "Y": 0.0763
+                    },
+                    "LeftMargin": 252.5,
+                    "RightMargin": 186.5,
+                    "TopMargin": 109.9998,
+                    "BottomMargin": 350.0002,
+                    "Tag": 168,
+                    "ActionTag": -1596439944,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 38.0
+                    },
+                    "Name": "slider_yinxiao",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/character/yinxiao.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.0,
+                      "Y": 368.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1563,
+                      "Y": 0.739
+                    },
+                    "PreSize": {
+                      "X": 0.1238,
+                      "Y": 0.1124
+                    },
+                    "LeftMargin": 78.5,
+                    "RightMargin": 650.5,
+                    "TopMargin": 101.9999,
+                    "BottomMargin": 340.0001,
+                    "Tag": 156,
+                    "ActionTag": 1198936650,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/character/music.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.0,
+                      "Y": 288.0005
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1563,
+                      "Y": 0.5783
+                    },
+                    "PreSize": {
+                      "X": 0.1238,
+                      "Y": 0.1124
+                    },
+                    "LeftMargin": 78.5,
+                    "RightMargin": 650.5,
+                    "TopMargin": 181.9995,
+                    "BottomMargin": 260.0005,
+                    "Tag": 157,
+                    "ActionTag": -2146680449,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Sprite_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/21laba.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 451.9752,
+                      "Y": 368.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5432,
+                      "Y": 0.739
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 0.0944
+                    },
+                    "LeftMargin": 191.9752,
+                    "RightMargin": 120.0248,
+                    "TopMargin": 106.4999,
+                    "BottomMargin": 344.5001,
+                    "Tag": 920,
+                    "ActionTag": 874174142,
+                    "Size": {
+                      "X": 520.0,
+                      "Y": 47.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/yingzi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.003,
+                      "Y": 287.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5397,
+                      "Y": 0.5783
+                    },
+                    "PreSize": {
+                      "X": 0.4868,
+                      "Y": 0.0964
+                    },
+                    "LeftMargin": 246.503,
+                    "RightMargin": 180.497,
+                    "TopMargin": 186.0001,
+                    "BottomMargin": 263.9999,
+                    "Tag": 922,
+                    "ActionTag": 836825698,
+                    "Size": {
+                      "X": 405.0,
+                      "Y": 48.0
+                    },
+                    "Name": "yingzi_2_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/huangtiao.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/shaizi.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 35,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 449.0,
+                      "Y": 289.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5397,
+                      "Y": 0.5803
+                    },
+                    "PreSize": {
+                      "X": 0.4724,
+                      "Y": 0.0763
+                    },
+                    "LeftMargin": 252.5,
+                    "RightMargin": 186.5,
+                    "TopMargin": 189.9999,
+                    "BottomMargin": 270.0001,
+                    "Tag": 54,
+                    "ActionTag": 1020558126,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 38.0
+                    },
+                    "Name": "slider_yinyue",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/21laba.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 451.9752,
+                      "Y": 288.0005
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5432,
+                      "Y": 0.5783
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 0.0944
+                    },
+                    "LeftMargin": 191.9752,
+                    "RightMargin": 120.0248,
+                    "TopMargin": 186.4995,
+                    "BottomMargin": 264.5005,
+                    "Tag": 925,
+                    "ActionTag": -256559399,
+                    "Size": {
+                      "X": 520.0,
+                      "Y": 47.0
+                    },
+                    "Name": "Sprite_1_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/character/setting_jyqd.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 370.0,
+                      "Y": 202.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4447,
+                      "Y": 0.4056
+                    },
+                    "PreSize": {
+                      "X": 0.2163,
+                      "Y": 0.0944
+                    },
+                    "LeftMargin": 280.0,
+                    "RightMargin": 372.0,
+                    "TopMargin": 272.5,
+                    "BottomMargin": 178.5,
+                    "Tag": 16,
+                    "ActionTag": 1424793170,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 47.0
+                    },
+                    "Name": "setting_jyqd_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb3.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb3.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 510.0,
+                      "Y": 202.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.613,
+                      "Y": 0.4056
+                    },
+                    "PreSize": {
+                      "X": 0.0697,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 481.0,
+                    "RightMargin": 293.0,
+                    "TopMargin": 265.5,
+                    "BottomMargin": 171.5,
+                    "Tag": 18,
+                    "ActionTag": 1272749665,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 61.0
+                    },
+                    "Name": "CheckBox_1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/tips_x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 770.0,
+                      "Y": 444.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9255,
+                      "Y": 0.8916
+                    },
+                    "PreSize": {
+                      "X": 0.0841,
+                      "Y": 0.1406
+                    },
+                    "LeftMargin": 735.0,
+                    "RightMargin": 27.0,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 409.0,
+                    "Tag": 26,
+                    "ActionTag": 511503383,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 70.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/button_g.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 85.78
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1,
+                      "ScaleY": 1.1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1722
+                    },
+                    "PreSize": {
+                      "X": 0.3486,
+                      "Y": 0.1747
+                    },
+                    "LeftMargin": 271.0,
+                    "RightMargin": 271.0,
+                    "TopMargin": 368.72,
+                    "BottomMargin": 42.28,
+                    "Tag": 33,
+                    "Children": [
+                      {
+                        "FontSize": 46,
+                        "LabelText": "申请解散房间",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZCY.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 55,
+                          "G": 61,
+                          "B": 61
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 142.1,
+                          "Y": 44.37
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.49,
+                          "Y": 0.51
+                        },
+                        "PreSize": {
+                          "X": 0.9586,
+                          "Y": 0.6437
+                        },
+                        "LeftMargin": 3.1,
+                        "RightMargin": 8.9,
+                        "TopMargin": 14.63,
+                        "BottomMargin": 16.37,
+                        "Tag": 899,
+                        "ActionTag": -1015342603,
+                        "Size": {
+                          "X": 278.0,
+                          "Y": 56.0
+                        },
+                        "Name": "btn_title",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -228176260,
+                    "Size": {
+                      "X": 290.0,
+                      "Y": 87.0
+                    },
+                    "Name": "btn_shenqingjiesan",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/character/word_shezhi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 444.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8916
+                    },
+                    "PreSize": {
+                      "X": 0.1575,
+                      "Y": 0.1245
+                    },
+                    "LeftMargin": 350.5,
+                    "RightMargin": 350.5,
+                    "TopMargin": 23.0,
+                    "BottomMargin": 413.0,
+                    "Tag": 33,
+                    "ActionTag": 869688949,
+                    "Size": {
+                      "X": 131.0,
+                      "Y": 62.0
+                    },
+                    "Name": "word_shezhi_1",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1462189243,
+                "Size": {
+                  "X": 832.0,
+                  "Y": 498.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1112948100,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/mainBg4.png",
+        "resources/button/button_g.png",
+        "resources/button/cb2.png",
+        "resources/button/cb3.png",
+        "resources/button/tips_x.png",
+        "resources/character/music.png",
+        "resources/character/setting_jyqd.png",
+        "resources/character/word_shezhi.png",
+        "resources/character/yinxiao.png",
+        "resources/fonts/FZCY.ttf",
+        "resources/unit/21laba.png",
+        "resources/unit/huangtiao.png",
+        "resources/unit/shaizi.png",
+        "resources/unit/yingzi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
