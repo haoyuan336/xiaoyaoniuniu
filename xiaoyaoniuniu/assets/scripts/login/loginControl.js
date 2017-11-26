@@ -26,6 +26,7 @@ cc.Class({
             case 'wxlogic':
                 //微信登录
                 cc.log('微信登录');
+                cc.director.loadScene('mainScene');
                 break;
 
 

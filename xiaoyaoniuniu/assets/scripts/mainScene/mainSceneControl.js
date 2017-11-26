@@ -13,6 +13,10 @@ cc.Class({
         createRoomPrefab: {
             default: null,
             type: cc.Prefab
+        },
+        joinRoomPrefab: {
+            default: null,
+            type: cc.Prefab
         }
     },
 
@@ -38,6 +42,8 @@ cc.Class({
                 createRoom.parent = this.node;
                 break;
             case 'joinRoom':
+                let joinRoom = cc.instantiate(this.joinRoomPrefab);
+                joinRoom.parent = this.node;
                 break;
             default:
                 break

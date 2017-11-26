@@ -2103,6 +2103,9 @@
     },
     "createRoomPrefab": {
       "__uuid__": "872a218c-bfdf-423d-8339-06176336025e"
+    },
+    "joinRoomPrefab": {
+      "__uuid__": "adb44cce-0a15-41bb-b5fc-483ecfe72bdd"
     }
   }
 ]
