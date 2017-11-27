@@ -37,14 +37,14 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 206
+        "__id__": 207
       },
       {
-        "__id__": 207
+        "__id__": 208
       }
     ],
     "_prefab": {
-      "__id__": 208
+      "__id__": 209
     },
     "_id": "",
     "_opacity": 255,
@@ -6622,7 +6622,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 205
+      "__id__": 206
     },
     "_id": "",
     "_opacity": 255,
@@ -6800,7 +6800,11 @@
     "zoomScale": 1.1,
     "pressedSprite": null,
     "hoverSprite": null,
-    "clickEvents": [],
+    "clickEvents": [
+      {
+        "__id__": 205
+      }
+    ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
     "_N$normalColor": {
@@ -6822,6 +6826,15 @@
     "_N$target": {
       "__id__": 199
     }
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "createRoom",
+    "handler": "onButtonClick",
+    "customEventData": "createroom"
   },
   {
     "__type__": "cc.PrefabInfo",
