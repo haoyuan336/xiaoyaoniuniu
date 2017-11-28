@@ -64,12 +64,27 @@ exports.compare_acccount = function (userId,password , callback) {
     // console.log('value =  ' + value(userId, password));
     let sql = 'select * from t_accounts where account="' + userId + '";';
     query(sql, function (data) {
-        data = data[0];
-        if (data[userId] === password){
-            console.log('用户名与密码对应');
+
+        console.log('data = ' + JSON.stringify(data[0]));
+        let uid = data[0];
+
+        if (data[0]['password'] === password){
             callback(true);
         }else {
             callback(false);
         }
+
+
     })
 };
+exports.get_player_info = function (uid, cb) {
+    let sql = 'select * from t_userinfo where account = ' + uid + ';';
+    query(sql, function (data) {
+        if (data.length === 0){
+            cb('is not exist user' + uid);
+
+        }else {
+            cb(null, data);
+        }
+    })
+}
