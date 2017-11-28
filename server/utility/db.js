@@ -1,6 +1,7 @@
 const mysql = require('mysql');
 let client = undefined;
 const query = function (sql, cb) {
+    console.log('query = ' + sql);
     client.getConnection(function (err, connection) {
         if (err){
             console.log('connection mysql err = ' + err);
@@ -87,4 +88,14 @@ exports.get_player_info = function (uid, cb) {
             cb(null, data);
         }
     })
-}
+};
+exports.is_vip_account = function (uid, cb) {
+  let sql = 'select * from t_vip_account where account = ' + uid + ';';
+  query(sql, function (data) {
+      if (data.length === 0){
+          cb(false);
+      }else {
+          cb(true);
+      }
+  })
+};

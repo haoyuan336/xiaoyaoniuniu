@@ -7,9 +7,15 @@ exports.mysql =function (){
         port: 3000
     }
 };
-exports.server = function () {
+exports.accountServer = function () {
     return {
         host: 'localhost',
         port: 3001
+    }
+};
+exports.gameServer = function () {
+    return {
+        host: 'localhost',
+        port: 3002
     }
 };

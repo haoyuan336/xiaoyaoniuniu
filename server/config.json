@@ -1,0 +1,15 @@
+{
+  "dbconfig": {
+    "user": "root",
+    "password": "chu7758521",
+    "bd": "mybd"
+  },
+  "accountServerConfig": {
+    "ip": "localhost",
+    "port": 3001
+  },
+  "gameServerConfig": {
+    "ip": "localhost",
+    "port": 3002
+  }
+}

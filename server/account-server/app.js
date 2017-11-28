@@ -7,6 +7,10 @@ const db = require('./../utility/db');
 db.connect(mysqlConfig);
 app.use(bodyParser.json()); // for parsing application/json
 app.use(bodyParser.urlencoded({ extended: true }));
+// db.is_vip_account('10000', function (result) {
+//     console.log('result' + result);
+//     //这个是vip账号
+// });
 app.post('/login', function (req, res) {
     let userId = req.body.userid;
     let password = req.body.password;
