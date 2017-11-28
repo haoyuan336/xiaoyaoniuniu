@@ -1,0 +1,30 @@
+module.js:491
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/chuhaoyuan/Desktop/jsmajiang/server/server/hall_server/account_server/app.js'
+    at Function.Module._resolveFilename (module.js:489:15)
+    at Function.Module._load (module.js:439:25)
+    at Function.Module.runMain (module.js:609:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:598:3
+module.js:491
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/chuhaoyuan/Desktop/jsmajiang/server/server/hall_server/majiang_server/app.js'
+    at Function.Module._resolveFilename (module.js:489:15)
+    at Function.Module._load (module.js:439:25)
+    at Function.Module.runMain (module.js:609:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:598:3
+module.js:491
+    throw err;
+    ^
+
+Error: Cannot find module '/Users/chuhaoyuan/Desktop/jsmajiang/server/server/hall_server/hall_server/app.js'
+    at Function.Module._resolveFilename (module.js:489:15)
+    at Function.Module._load (module.js:439:25)
+    at Function.Module.runMain (module.js:609:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:598:3

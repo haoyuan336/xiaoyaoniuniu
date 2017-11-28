@@ -1,0 +1,84 @@
+account server is listening on 9000
+dealer api is listening on localhost:12581
+client service is listening on port 9001
+room service is listening on localhost:9002
+game server is listening on localhost:9003
+game server is listening on 10000
+game server registered.
+	id:120.24.59.70:10000
+	addr:127.0.0.1
+	http port:9003
+	socket clientport:10000
+120.24.59.70:10000
+7ec61f602b7ddff9b4b399a0d29720f5
+invalid parameters
+nohup: ../nodejs/bin/node: No such file or directory
+nohup: ../nodejs/bin/node: No such file or directory
+game server is listening on localhost:9003
+client service is listening on port 9001
+room service is listening on localhost:9002
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9001
+    at Object._errnoException (util.js:1041:11)
+    at _exceptionWithHostPort (util.js:1064:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1322:14)
+    at listenInCluster (net.js:1370:12)
+    at Server.listen (net.js:1466:7)
+    at Function.listen (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/node_modules/express/lib/application.js:617:24)
+    at Object.exports.start (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/hall_server/client_service.js:315:6)
+    at Object.<anonymous> (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/hall_server/app.js:10:16)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+account server is listening on 9000
+dealer api is listening on localhost:12581
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::9000
+    at Object._errnoException (util.js:1041:11)
+    at _exceptionWithHostPort (util.js:1064:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1322:14)
+    at listenInCluster (net.js:1370:12)
+    at Server.listen (net.js:1466:7)
+    at Function.listen (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/node_modules/express/lib/application.js:617:24)
+    at Object.exports.start (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/account_server/account_server.js:19:6)
+    at Object.<anonymous> (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/account_server/app.js:11:4)
+    at Module._compile (module.js:573:30)
+    at Object.Module._extensions..js (module.js:584:10)
+game server is listening on 10000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::10000
+    at Object._errnoException (util.js:1041:11)
+    at _exceptionWithHostPort (util.js:1064:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1322:14)
+    at listenInCluster (net.js:1370:12)
+    at Server.listen (net.js:1466:7)
+    at Server.listen.Server.attach (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/node_modules/socket.io/lib/index.js:216:9)
+    at new Server (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/node_modules/socket.io/lib/index.js:50:17)
+    at Server (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/node_modules/socket.io/lib/index.js:38:41)
+    at Object.exports.start (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/majiang_server/socket_service.js:9:27)
+    at Object.<anonymous> (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/majiang_server/app.js:15:16)
+account server is listening on 9000
+dealer api is listening on localhost:12581
+module.js:544
+    throw err;
+    ^
+
+Error: Cannot find module './configs.js'
+    at Function.Module._resolveFilename (module.js:542:15)
+    at Function.Module._load (module.js:472:25)
+    at Module.require (module.js:585:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/chuhaoyuan/Desktop/jsmajiang/server/server/account_server/app.js:2:15)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
