@@ -10,7 +10,7 @@ exports.mysql =function (){
 exports.accountServer = function () {
     return {
         host: 'localhost',
-        port: 3001
+        port: 3000
     }
 };
 exports.gameServer = function () {

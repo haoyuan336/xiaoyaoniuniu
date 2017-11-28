@@ -33,12 +33,29 @@ const Account = function () {
     };
 
     that.getPlayerInfo = function (uid, cb) {
-        _request('/login',{uid: uid},null,cb);
+        _request('/get_player_info',{uid: uid},null,cb);
 
     };
-    that.createRoom = function (uid,data, cb) {
-        _request('/createroom', {uid: uid}, data, cb);
+    that.login = function (uid, password, cb) {
+      _request('/login', {}, {uid: uid, password: password}, function (err, data) {
+          if (err){
+              console.log('err = ' + err);
+
+          }else {
+
+            cb(data);
+          }
+      })
     };
+    that.createRoom = function (uid,data, cb) {
+        _request('/create_room', {uid: uid}, data, cb);
+    };
+    that.createAccount = function(uid, password, cb){
+        _request('/createAccount', {}, {
+            uid: uid,
+            password: password
+        }, cb);
+    }
     return that;
 };
 export default Account;

@@ -1,0 +1,48 @@
+{
+  "banker_rule": {
+    "linebanker": "1",
+    "tuenbanker": "2",
+    "kingbanker": "3"
+  },
+  "game_turn_count": {
+    "count_10": {
+      "count": 10,
+      "houseCast": 1
+    },
+    "count_20": {
+      "count": 20,
+      "houseCast": 2
+    }
+  },
+  "lock_card": {
+    "lock_card_all": 0,
+    "lock_card_1": 1,
+    "lock_card_2": 2
+  },
+  "rate_count": {
+    "rate_1": {
+      "cowcow": 3,
+      "cownine": 2,
+      "coweight": 2,
+      "cowseven": 2
+    },
+    "rate_2": {
+      "cowcow": 4,
+      "cownine": 3,
+      "coweight": 2,
+      "cowseven": 2
+    },
+    "special_card": {
+      "special_1": {
+        "fiveflower": 6,
+        "fivesmall": 5,
+        "cowbomb": 8
+      },
+      "special_2": {
+        "sameflower": 5,
+        "scorll": 5,
+        "gourd": 5
+      }
+    }
+  }
+}

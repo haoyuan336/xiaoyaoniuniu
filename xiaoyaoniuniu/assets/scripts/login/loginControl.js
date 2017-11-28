@@ -28,14 +28,22 @@ cc.Class({
                 //微信登录
                 cc.log('微信登录');
                 // cc.director.loadScene('mainScene');
-                global.account.getPlayerInfo(global.account.playerData.playerUid,(err, data)=>{
-                    if (err){
-                        cc.log('err = ' + err);
-                        return;
-                    }
-                    cc.log('登录成功' + data);
-                    cc.director.loadScene('mainScene');
-                });
+                // global.account.getPlayerInfo(global.account.playerData.playerUid,(err, data)=>{
+                //     if (err){
+                //         cc.log('err = ' + err);
+                //         return;
+                //     }
+                //     cc.log('登录成功' + data);
+                //     cc.director.loadScene('mainScene');
+                // });
+                global.account.login(global.account.playerData.playerUid,
+                    global.account.playerData.auth, function (data) {
+                       if (data === true){
+                           console.log('登录成功');
+                           cc.director.loadScene('mainScene');
+                       }
+                    })
+
                 break;
 
 

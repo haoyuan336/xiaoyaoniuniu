@@ -8,7 +8,14 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-
+        //加载游戏配置
+       cc.loader.loadRes("config/game-config.json", (err, result)=>{
+           if (err){
+               console.log('err = ' + err);
+           }else {
+               console.log('result = ' + JSON.stringify(result));
+           }
+       });
     },
 
     onButtonClick: function (event, customData) {
@@ -31,7 +38,7 @@ cc.Class({
                         //创建房间成功，
                         console.log('创建房间成功' + data);
                         this.node.destroy();
-                    })
+                    });
 
                 break;
             default:
