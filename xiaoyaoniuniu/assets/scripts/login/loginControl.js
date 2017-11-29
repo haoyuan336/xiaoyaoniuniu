@@ -16,6 +16,13 @@ cc.Class({
         setTimeout( ()=> {
             this.loadingAnimate.destroy();
         },1000)
+
+
+
+      if (cc.sys.isMobile){
+        this.userPlugin = anysdk.agentManager.getUserPlugin();
+        this.userPlugin.setListener(this.onUserResult.bind(this), this);
+      }
     },
 
     // called every frame, uncomment this function to activate update callback
@@ -36,19 +43,33 @@ cc.Class({
                 //     cc.log('登录成功' + data);
                 //     cc.director.loadScene('mainScene');
                 // });
-                global.account.login(global.account.playerData.playerUid,
-                    global.account.playerData.auth, function (data) {
-                       if (data === true){
-                           console.log('登录成功');
-                           cc.director.loadScene('mainScene');
-                       }
-                    })
+                // global.account.login(global.account.playerData.playerUid,
+                //     global.account.playerData.auth, function (data) {
+                //        if (data === true){
+                //            console.log('登录成功');
+                //            cc.director.loadScene('mainScene');
+                //        }
+                //     })
 
+
+                this.userPlugin.login({});
                 break;
 
 
             default:
                 break;
+        }
+    },
+    onUserResult: function (code, msg) {
+        cc.log('on user result action' + code);
+        cc.log('msg =' + msg);
+        switch (code){
+          case anysdk.UserActionResultCode.kLoginSuccess:
+              cc.log("登陆成功");
+              break;
+          case anysdk.UserActionResultCode.kLoginFail:
+              cc.log('登陆失败');
+              break;
         }
     }
 });

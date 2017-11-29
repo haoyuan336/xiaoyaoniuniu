@@ -1,15 +1,16 @@
 {
-  "appKey": "",
-  "appSecret": "",
+  "appKey": "4B85BA6B-B1FD-24A2-5109-A822F96AFD7C",
+  "appSecret": "acdb084228d2e30f33426dbcf85a1e85",
+  "encryptJs": true,
   "excludeScenes": [],
-  "includeAnySDK": false,
+  "includeAnySDK": true,
   "includeSDKBox": false,
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
   "jailbreakPlatform": false,
   "md5Cache": false,
   "mergeStartScene": false,
-  "oauthLoginServer": "",
+  "oauthLoginServer": "http://oauth.anysdk.com/api/User/LoginOauth/",
   "optimizeHotUpdate": false,
   "orientation": {
     "landscapeLeft": true,
@@ -18,9 +19,10 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.xiaoyaoniuniu",
-  "privateKey": "",
+  "privateKey": "0C5B09C45438EC9F845ACCDCA80CF1EC",
   "renderMode": "0",
   "startScene": "078d62b0-5a62-44cc-b042-42cdc911c0eb",
   "title": "xiaoyaoniuniu",
-  "webOrientation": "auto"
+  "webOrientation": "auto",
+  "xxteaKey": "983064af-d62c-49"
 }
