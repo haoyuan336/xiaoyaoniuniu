@@ -76,7 +76,7 @@ app.get('/get_player_info', function (req, res) {
 });
 app.post('/create_room', function (req, res) {
     let uid = req.query.uid;
-    let roomData = req.query.body;
+    let roomData = req.body;
     console.log('create room id = ' + uid);
     console.log('room data = ' + JSON.stringify(roomData));
     //首先取出这个玩家的房卡的个数
@@ -90,17 +90,25 @@ app.post('/create_room', function (req, res) {
     let data = {
         houseCardCount: roomData.houseCardCount,
         roundCount: roomData.roundCount,
-        bakerRule: roomData.bankerRule,
+        bankerRule: roomData.bankerRule,
         rateRule: roomData.rateRule,
-        specialType: roomData.specialType
+        specialType: roomData.specialType,
+        lockRule: roomData.lockRule
     }
     for (let i in data){
         if (data[i] === undefined){
-            res.send(err, 'require ' + i);
+            res.send({
+              status: "fail",
+              res: 'require ' + i
+            });
             return;
         }
     }
-
+    console.log('参数齐全了');
+  res.send({
+    status: 'ok',
+    res: '创建房间成功'
+  });
 });
 
 

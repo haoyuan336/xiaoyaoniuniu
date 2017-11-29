@@ -43,16 +43,16 @@ cc.Class({
                 //     cc.log('登录成功' + data);
                 //     cc.director.loadScene('mainScene');
                 // });
-                // global.account.login(global.account.playerData.playerUid,
-                //     global.account.playerData.auth, function (data) {
-                //        if (data === true){
-                //            console.log('登录成功');
-                //            cc.director.loadScene('mainScene');
-                //        }
-                //     })
+                global.account.login(global.account.playerData.playerUid,
+                    global.account.playerData.auth, function (data) {
+                       if (data === true){
+                           console.log('登录成功');
+                           cc.director.loadScene('mainScene');
+                       }
+                    });
 
 
-                this.userPlugin.login({});
+                // this.userPlugin.login({});
                 break;
 
 

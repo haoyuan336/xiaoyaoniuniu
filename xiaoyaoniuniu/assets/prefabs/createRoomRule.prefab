@@ -1361,7 +1361,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "count_10",
     "_objFlags": 0,
     "_parent": {
       "__id__": 36
@@ -1683,7 +1683,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "count_20",
     "_objFlags": 0,
     "_parent": {
       "__id__": 36
@@ -2194,7 +2194,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "gamechoose",
+    "_name": "bankerchoose",
     "_objFlags": 0,
     "_parent": {
       "__id__": 17
@@ -2438,7 +2438,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "linebanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -2760,7 +2760,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "turnbanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -2919,7 +2919,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 88
@@ -3057,7 +3057,7 @@
       "__id__": 88
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -3072,7 +3072,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle3",
+    "_name": "kingbanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -3456,7 +3456,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "rate_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 102
@@ -3868,7 +3868,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "rate_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 102
@@ -4117,7 +4117,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 124
@@ -4255,7 +4255,7 @@
       "__id__": 124
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -4342,7 +4342,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "special_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 129
@@ -4754,7 +4754,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "special_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 129
@@ -5003,7 +5003,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 151
@@ -5141,7 +5141,7 @@
       "__id__": 151
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -5712,7 +5712,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle4",
+    "_name": "lock_card_all",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6034,7 +6034,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle5",
+    "_name": "lock_card_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6193,7 +6193,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 187
@@ -6331,7 +6331,7 @@
       "__id__": 187
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -6346,7 +6346,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle6",
+    "_name": "lock_card_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6983,7 +6983,22 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true
+    "_enabled": true,
+    "gameCountChoose": {
+      "__id__": 48
+    },
+    "bankerChoose": {
+      "__id__": 81
+    },
+    "lockCardChoose": {
+      "__id__": 180
+    },
+    "rateChoose": {
+      "__id__": 114
+    },
+    "specialChoose": {
+      "__id__": 141
+    }
   },
   {
     "__type__": "cc.PrefabInfo",
