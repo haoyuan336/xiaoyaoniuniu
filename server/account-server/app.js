@@ -105,12 +105,35 @@ app.post('/create_room', function (req, res) {
         }
     }
     console.log('参数齐全了');
-  res.send({
-    status: 'ok',
-    res: '创建房间成功'
+  //在数据库里面 储存房间信息
+  data.housemaster = uid;
+  data.roomid = getRandomRoomId();
+  db.create_room(data, function (err, result) {
+    if(err){
+      res.send({
+        status: 'fail',
+        res: '创建房间失败'
+      });
+    }else {
+        res.send({
+          status: 'ok',
+          res: {
+              roomId: data.roomid
+          }
+        })
+    }
   });
+
 });
 
+const getRandomRoomId = function () {
+    let roomId = '';
+    for (let i = 0 ; i < 6 ; i ++){
+        roomId += Math.floor(Math.random() * 9);
+    }
+    console.log('room id = ' + roomId);
+    return roomId;
+};
 
 
 var server = app.listen(3000, function () {

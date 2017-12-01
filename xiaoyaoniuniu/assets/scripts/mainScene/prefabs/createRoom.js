@@ -66,47 +66,48 @@ cc.Class({
             gameTurnCount = config[name].count;
         }
     }
-
+    //
     cc.log('需要的房卡数是' + houseCardCast);
     cc.log('游戏的总局数' + gameTurnCount);
-    let bankerConfig = this.gameConfig['banker_rule'];
+    // let bankerConfig = this.gameConfig['banker_rule'];
     let bankerRule  = '';
     for (let i in this.bankerChoose.toggleItems){
         let toggle = this.bankerChoose.toggleItems[i];
         if (toggle.isChecked === true){
-            bankerRule = bankerConfig[toggle.node.name];
+            // bankerRule = bankerConfig[toggle.node.name];
+          bankerRule = toggle.node.name;
         }
     }
     console.log('连庄规则' + bankerRule);
     //扣牌规则
     let lockRule = "";
-    let lockConfig = this.gameConfig['lock_card'];
-    cc.log('lock config = ' + JSON.stringify(lockConfig));
+    // let lockConfig = this.gameConfig['lock_card'];
     for (let i in this.lockCardChoose.toggleItems){
         let toggle = this.lockCardChoose.toggleItems[i];
         if (toggle.isChecked){
-            lockRule = lockConfig[toggle.node.name];
+            // lockRule = lockConfig[toggle.node.name];
+          lockRule = toggle.node.name;
         }
 
     }
-    cc.log('lock card rule = ' + lockRule);
     let rateCount = "";
-    let rateConfig = this.gameConfig['rate_count'];
+    // let rateConfig = this.gameConfig['rate_count'];
     for (let i in this.rateChoose.toggleItems){
         let toggle = this.rateChoose.toggleItems[i];
         if (toggle.isChecked){
-            rateCount = rateConfig[toggle.node.name];
+            // rateCount = rateConfig[toggle.node.name];
+            rateCount = toggle.node.name;
         }
     }
     cc.log('rate count = ' + rateCount);
 
     let specialChoose = "";
-    let specialConfig = this.gameConfig["special_card"];
-    console.log('special config = ' + JSON.stringify(specialConfig));
+    // let specialConfig = this.gameConfig["special_card"];
     for (let i in this.specialChoose.toggleItems){
         let toggle = this.specialChoose.toggleItems[i];
         if (toggle.isChecked){
-            specialChoose = specialConfig[toggle.node.name];
+            // specialChoose = specialConfig[toggle.node.name];
+          specialChoose = toggle.node.name;
         }
     }
     cc.log('special card = ' + specialChoose);
@@ -124,8 +125,9 @@ cc.Class({
           return;
         }
         //创建房间成功，
-        console.log('创建房间成功' + data);
-        this.node.destroy();
+        console.log('创建房间成功' + JSON.stringify(data));
+
+        //进入房间
       });
   }
 });

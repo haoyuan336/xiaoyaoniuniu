@@ -746,6 +746,7 @@
               "X": 66.0,
               "Y": 66.0
             },
+            "VisibleForFrame": false,
             "Name": "row30",
             "ctype": "PanelObjectData"
           },
@@ -1155,7 +1156,8 @@
               "X": 66.0,
               "Y": 66.0
             },
-            "Name": "row10",
+            "VisibleForFrame": false,
+            "Name": "row20",
             "ctype": "PanelObjectData"
           }
         ],

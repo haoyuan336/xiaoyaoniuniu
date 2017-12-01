@@ -133,10 +133,12 @@
               "Y": 1.0
             },
             "PreSize": {
-              "X": 1.0,
-              "Y": 0.1208
+              "X": 0.0359,
+              "Y": 0.0639
             },
-            "BottomMargin": 633.0,
+            "LeftMargin": 617.0,
+            "RightMargin": 617.0,
+            "BottomMargin": 674.0,
             "Tag": 179,
             "ActionTag": 771615413,
             "Size": {
@@ -396,7 +398,7 @@
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
-              "X": 73.344,
+              "X": 72.0,
               "Y": 53.0
             },
             "Scale": {
@@ -405,23 +407,22 @@
             },
             "CColor": {},
             "IconVisible": false,
-            "PositionPercentXEnabled": true,
             "PrePosition": {
-              "X": 0.0573,
+              "X": 0.0562,
               "Y": 0.0736
             },
             "PreSize": {
-              "X": 0.8849,
+              "X": 0.8867,
               "Y": 0.6681
             },
-            "LeftMargin": 73.344,
-            "RightMargin": 73.9513,
+            "LeftMargin": 72.0,
+            "RightMargin": 73.0,
             "TopMargin": 185.9568,
             "BottomMargin": 53.0,
             "Tag": 322,
             "ActionTag": -1051925821,
             "Size": {
-              "X": 1132.7047,
+              "X": 1135.0,
               "Y": 481.0432
             },
             "Name": "tableview",
@@ -432,7 +433,7 @@
             "LabelText": "暂无战绩, 快去喊小伙伴一起玩吧 :)",
             "FontResource": {
               "Type": "Normal",
-              "Path": "ui/resources/fonts/DFYuanW7-GB2312.ttf",
+              "Path": "",
               "Plist": ""
             },
             "OutlineColor": {
@@ -550,7 +551,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 620.084,
+              "X": 564.08,
               "Y": 552.0413
             },
             "Scale": {
@@ -560,15 +561,15 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.4844,
+              "X": 0.4407,
               "Y": 0.7667
             },
             "PreSize": {
               "X": 0.7445,
               "Y": 0.0403
             },
-            "LeftMargin": 143.584,
-            "RightMargin": 183.416,
+            "LeftMargin": 87.58,
+            "RightMargin": 239.4199,
             "TopMargin": 153.4587,
             "BottomMargin": 537.5413,
             "Tag": 2163,
@@ -623,7 +624,7 @@
                 "LabelText": "查看他人回放",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "OutlineColor": {
@@ -680,7 +681,6 @@
               "X": 225.0,
               "Y": 75.0
             },
-            "VisibleForFrame": false,
             "Name": "btn_ckhf",
             "ctype": "SpriteObjectData"
           }
@@ -703,8 +703,6 @@
         "resources/character/topline_phb_word.png",
         "resources/character/word_zj.png",
         "resources/character/zhanji_t.png",
-        "resources/fonts/DFYuanW7-GB2312.ttf",
-        "resources/fonts/FZCY.ttf",
         "resources/unit/bg_topline_phb_jzg.png"
       ],
       "ctype": "GameFileData"

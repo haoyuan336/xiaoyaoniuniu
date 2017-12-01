@@ -281,6 +281,11 @@
                               {
                                 "FontSize": 32,
                                 "LabelText": "快点吧, 我等得花儿都谢了!__________",
+                                "FontResource": {
+                                  "Type": "Normal",
+                                  "Path": "ui/resources/fonts/FZZY.TTF",
+                                  "Plist": ""
+                                },
                                 "VerticalAlignmentType": "VT_Bottom",
                                 "OutlineColor": {
                                   "G": 0,
@@ -313,18 +318,18 @@
                                   "Y": 0.2284
                                 },
                                 "PreSize": {
-                                  "X": 0.8912,
-                                  "Y": 0.6271
+                                  "X": 0.8656,
+                                  "Y": 0.6102
                                 },
                                 "LeftMargin": 16.9309,
-                                "RightMargin": 51.0691,
-                                "TopMargin": 8.5235,
+                                "RightMargin": 67.0691,
+                                "TopMargin": 9.5235,
                                 "BottomMargin": 13.4765,
                                 "Tag": 191,
                                 "ActionTag": -428969211,
                                 "Size": {
-                                  "X": 557.0,
-                                  "Y": 37.0
+                                  "X": 541.0,
+                                  "Y": 36.0
                                 },
                                 "Name": "label",
                                 "ctype": "TextObjectData"
@@ -436,6 +441,11 @@
                             "ctype": "SpriteObjectData"
                           },
                           {
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "ui/resources/fonts/FZZY.TTF",
+                              "Plist": ""
+                            },
                             "FontSize": 36,
                             "IsCustomSize": true,
                             "LabelText": "",
@@ -522,7 +532,7 @@
                                 "LabelText": "发 送",
                                 "FontResource": {
                                   "Type": "Normal",
-                                  "Path": "ui/resources/fonts/FZCY.ttf",
+                                  "Path": "ui/resources/fonts/FZZY.TTF",
                                   "Plist": ""
                                 },
                                 "OutlineColor": {
@@ -556,17 +566,17 @@
                                   "Y": 0.5402
                                 },
                                 "PreSize": {
-                                  "X": 0.3518,
+                                  "X": 0.3568,
                                   "Y": 0.3908
                                 },
-                                "LeftMargin": 64.5,
-                                "RightMargin": 64.5,
+                                "LeftMargin": 64.0,
+                                "RightMargin": 64.0,
                                 "TopMargin": 23.0,
                                 "BottomMargin": 30.0,
                                 "Tag": 31,
                                 "ActionTag": 1987454444,
                                 "Size": {
-                                  "X": 70.0,
+                                  "X": 71.0,
                                   "Y": 34.0
                                 },
                                 "Name": "text",
@@ -796,11 +806,12 @@
                     "Tag": 27,
                     "Children": [
                       {
+                        "IsCustomSize": true,
                         "FontSize": 38,
                         "LabelText": "常用语",
                         "FontResource": {
                           "Type": "Normal",
-                          "Path": "ui/resources/fonts/DFYuanW7-GB2312.ttf",
+                          "Path": "ui/resources/fonts/FZZY.TTF",
                           "Plist": ""
                         },
                         "VerticalAlignmentType": "VT_Bottom",
@@ -841,18 +852,18 @@
                           "Y": 0.5
                         },
                         "PreSize": {
-                          "X": 0.4979,
-                          "Y": 0.4167
+                          "X": 0.5532,
+                          "Y": 0.4688
                         },
-                        "LeftMargin": 59.0,
-                        "RightMargin": 59.0,
-                        "TopMargin": 28.0,
-                        "BottomMargin": 28.0,
+                        "LeftMargin": 52.5,
+                        "RightMargin": 52.5,
+                        "TopMargin": 25.5,
+                        "BottomMargin": 25.5,
                         "Tag": 60,
                         "ActionTag": -1462547567,
                         "Size": {
-                          "X": 117.0,
-                          "Y": 40.0
+                          "X": 130.0,
+                          "Y": 45.0
                         },
                         "Name": "label_0",
                         "ctype": "TextObjectData"
@@ -905,11 +916,12 @@
                     "Tag": 28,
                     "Children": [
                       {
+                        "IsCustomSize": true,
                         "FontSize": 38,
                         "LabelText": "表 情",
                         "FontResource": {
                           "Type": "Normal",
-                          "Path": "ui/resources/fonts/DFYuanW7-GB2312.ttf",
+                          "Path": "ui/resources/fonts/FZZY.TTF",
                           "Plist": ""
                         },
                         "VerticalAlignmentType": "VT_Bottom",
@@ -950,18 +962,18 @@
                           "Y": 0.5
                         },
                         "PreSize": {
-                          "X": 0.4213,
-                          "Y": 0.4167
+                          "X": 0.4255,
+                          "Y": 0.4688
                         },
-                        "LeftMargin": 68.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 28.0,
-                        "BottomMargin": 28.0,
+                        "LeftMargin": 67.5,
+                        "RightMargin": 67.5,
+                        "TopMargin": 25.5,
+                        "BottomMargin": 25.5,
                         "Tag": 59,
                         "ActionTag": 1823577463,
                         "Size": {
-                          "X": 99.0,
-                          "Y": 40.0
+                          "X": 100.0,
+                          "Y": 45.0
                         },
                         "Name": "label_0",
                         "ctype": "TextObjectData"
@@ -1010,8 +1022,7 @@
         "resources/button/button_choose.png",
         "resources/button/button_g_xiao.png",
         "resources/button/button_nochoose.png",
-        "resources/fonts/DFYuanW7-GB2312.ttf",
-        "resources/fonts/FZCY.ttf"
+        "resources/fonts/FZZY.TTF"
       ],
       "ctype": "GameFileData"
     }

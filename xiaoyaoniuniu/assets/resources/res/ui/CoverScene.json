@@ -16,7 +16,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "ui/resources/bg/loginBgNN.png",
+              "Path": "ui/resources/bg/room_bg.jpg",
               "Plist": ""
             },
             "BlendFunc": {
@@ -55,6 +55,53 @@
             },
             "Name": "loginBg_1",
             "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/nnlogo.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 97,
+            "Scale9OriginY": 34,
+            "Scale9Width": 101,
+            "Scale9Height": 38,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 482.0667
+            },
+            "Scale": {
+              "ScaleX": 2.3,
+              "ScaleY": 2.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6695
+            },
+            "PreSize": {
+              "X": 0.2305,
+              "Y": 0.1472
+            },
+            "LeftMargin": 492.5,
+            "RightMargin": 492.5,
+            "TopMargin": 184.9333,
+            "BottomMargin": 429.0667,
+            "Tag": 79,
+            "ActionTag": 765388089,
+            "Size": {
+              "X": 295.0,
+              "Y": 106.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
           },
           {
             "FileData": {
@@ -147,6 +194,51 @@
             },
             "Name": "btn_wx_login",
             "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 50,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "输入登录ID",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 973.312,
+              "Y": 172.872
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7604,
+              "Y": 0.2401
+            },
+            "PreSize": {
+              "X": 0.218,
+              "Y": 0.0792
+            },
+            "LeftMargin": 833.812,
+            "RightMargin": 167.188,
+            "TopMargin": 518.628,
+            "BottomMargin": 144.372,
+            "Tag": 789,
+            "ActionTag": -365903716,
+            "Size": {
+              "X": 279.0,
+              "Y": 57.0
+            },
+            "VisibleForFrame": false,
+            "Name": "login_player_name",
+            "ctype": "TextFieldObjectData"
           },
           {
             "FileData": {
@@ -651,18 +743,18 @@
               "Y": 0.8422
             },
             "PreSize": {
-              "X": 0.0562,
-              "Y": 0.1014
+              "X": 0.0508,
+              "Y": 0.0917
             },
-            "LeftMargin": 1132.1743,
-            "RightMargin": 75.8257,
-            "TopMargin": 77.1303,
-            "BottomMargin": 569.8697,
+            "LeftMargin": 1135.6743,
+            "RightMargin": 79.3257,
+            "TopMargin": 80.6303,
+            "BottomMargin": 573.3697,
             "Tag": 36,
             "ActionTag": -2034414641,
             "Size": {
-              "X": 72.0,
-              "Y": 73.0
+              "X": 65.0,
+              "Y": 66.0
             },
             "Name": "btn_test",
             "ctype": "SpriteObjectData"
@@ -867,7 +959,7 @@
             "LabelText": "版本号：",
             "FontResource": {
               "Type": "Normal",
-              "Path": "ui/resources/fonts/FZCY.ttf",
+              "Path": "ui/resources/fonts/FZZY.TTF",
               "Plist": ""
             },
             "OutlineColor": {
@@ -900,17 +992,17 @@
               "Y": 0.1111
             },
             "PreSize": {
-              "X": 0.0656,
+              "X": 0.0648,
               "Y": 0.0375
             },
-            "LeftMargin": 1065.0,
-            "RightMargin": 131.0,
+            "LeftMargin": 1065.5,
+            "RightMargin": 131.5,
             "TopMargin": 626.5,
             "BottomMargin": 66.5,
             "Tag": 92,
             "ActionTag": -674116035,
             "Size": {
-              "X": 84.0,
+              "X": 83.0,
               "Y": 27.0
             },
             "Name": "version_name",
@@ -921,7 +1013,7 @@
             "LabelText": "10.10.10",
             "FontResource": {
               "Type": "Normal",
-              "Path": "ui/resources/fonts/FZCY.ttf",
+              "Path": "ui/resources/fonts/FZZY.TTF",
               "Plist": ""
             },
             "VerticalAlignmentType": "VT_Center",
@@ -954,17 +1046,17 @@
               "Y": 0.1111
             },
             "PreSize": {
-              "X": 0.0656,
+              "X": 0.0609,
               "Y": 0.0375
             },
             "LeftMargin": 1155.0,
-            "RightMargin": 41.0,
+            "RightMargin": 47.0,
             "TopMargin": 626.5,
             "BottomMargin": 66.5,
             "Tag": 201,
             "ActionTag": -564909414,
             "Size": {
-              "X": 84.0,
+              "X": 78.0,
               "Y": 27.0
             },
             "Name": "lb_version",
@@ -1036,11 +1128,6 @@
           {
             "FontSize": 28,
             "LabelText": "同意用户使用协议",
-            "FontResource": {
-              "Type": "Normal",
-              "Path": "ui/resources/fonts/DFYuanW7-GB2312.ttf",
-              "Plist": ""
-            },
             "OutlineSize": 2,
             "OutlineColor": {},
             "ShadowColor": {
@@ -1068,18 +1155,18 @@
               "Y": 0.0931
             },
             "PreSize": {
-              "X": 0.1773,
-              "Y": 0.0389
+              "X": 0.175,
+              "Y": 0.0444
             },
             "LeftMargin": 555.0,
-            "RightMargin": 498.0,
-            "TopMargin": 639.0,
-            "BottomMargin": 53.0,
+            "RightMargin": 501.0,
+            "TopMargin": 637.0,
+            "BottomMargin": 51.0,
             "Tag": 310,
             "ActionTag": 140361507,
             "Size": {
-              "X": 227.0,
-              "Y": 28.0
+              "X": 224.0,
+              "Y": 32.0
             },
             "Name": "lb_xieyi",
             "ctype": "TextObjectData"
@@ -1145,6 +1232,52 @@
             "VisibleForFrame": false,
             "Name": "Text_1",
             "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/xianliao/btxianliao.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.5509,
+              "Y": 173.4732
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2356,
+              "Y": 0.2409
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.1153
+            },
+            "LeftMargin": 168.0509,
+            "RightMargin": 844.9491,
+            "TopMargin": 505.0268,
+            "BottomMargin": 131.9732,
+            "Tag": 27,
+            "ActionTag": -692550125,
+            "Size": {
+              "X": 267.0,
+              "Y": 83.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_xl_login",
+            "ctype": "SpriteObjectData"
           }
         ],
         "Size": {
@@ -1156,7 +1289,9 @@
       },
       "UsedResources": [
         "../Default/Sprite.png",
-        "resources/bg/loginBgNN.png",
+        "../image/ui/xianliao/btxianliao.png",
+        "resources/bg/nnlogo.png",
+        "resources/bg/room_bg.jpg",
         "resources/bg/versionBg.png",
         "resources/button/btn_blue2.png",
         "resources/button/btn_wxdl.png",
@@ -1164,8 +1299,7 @@
         "resources/button/cb0.png",
         "resources/button/cb1.png",
         "resources/button/chat.png",
-        "resources/fonts/DFYuanW7-GB2312.ttf",
-        "resources/fonts/FZCY.ttf",
+        "resources/fonts/FZZY.TTF",
         "resources/fonts/STXingkai.ttf",
         "resources/unit/equipupgrade_progress_.png",
         "resources/unit/equipupgrade_progress_b.png"

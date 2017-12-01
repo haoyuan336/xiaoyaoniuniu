@@ -104,10 +104,11 @@
                   "Path": "ui/resources/bg/player_info_bg1.png",
                   "Plist": ""
                 },
+                "Scale9Enable": true,
                 "Scale9OriginX": 50,
                 "Scale9OriginY": 50,
                 "Scale9Width": 649,
-                "Scale9Height": 372,
+                "Scale9Height": 72,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -129,13 +130,13 @@
                   "Y": 0.5
                 },
                 "PreSize": {
-                  "X": 0.5852,
-                  "Y": 0.6556
+                  "X": 0.5859,
+                  "Y": 0.6667
                 },
-                "LeftMargin": 265.5,
-                "RightMargin": 265.5,
-                "TopMargin": 124.0,
-                "BottomMargin": 124.0,
+                "LeftMargin": 265.0,
+                "RightMargin": 265.0,
+                "TopMargin": 120.0,
+                "BottomMargin": 120.0,
                 "Tag": 12,
                 "Children": [
                   {
@@ -163,16 +164,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1936,
-                      "Y": 0.7585
+                      "X": 0.1933,
+                      "Y": 0.7458
                     },
                     "PreSize": {
-                      "X": 0.0854,
-                      "Y": 0.1356
+                      "X": 0.0853,
+                      "Y": 0.1333
                     },
                     "LeftMargin": 113.0,
-                    "RightMargin": 572.0,
-                    "TopMargin": 82.0006,
+                    "RightMargin": 573.0,
+                    "TopMargin": 90.0006,
                     "BottomMargin": 325.9994,
                     "Tag": 264,
                     "ActionTag": -1462026916,
@@ -208,16 +209,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1936,
-                      "Y": 0.7564
+                      "X": 0.1933,
+                      "Y": 0.7438
                     },
                     "PreSize": {
-                      "X": 0.2243,
-                      "Y": 0.3475
+                      "X": 0.224,
+                      "Y": 0.3417
                     },
                     "LeftMargin": 61.0,
-                    "RightMargin": 520.0,
-                    "TopMargin": 32.9993,
+                    "RightMargin": 521.0,
+                    "TopMargin": 40.9993,
                     "BottomMargin": 275.0007,
                     "Tag": 261,
                     "ActionTag": 1934252442,
@@ -253,16 +254,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.2644,
-                      "Y": 0.6483
+                      "X": 0.264,
+                      "Y": 0.6375
                     },
                     "PreSize": {
-                      "X": 0.0414,
-                      "Y": 0.0826
+                      "X": 0.0413,
+                      "Y": 0.0812
                     },
                     "LeftMargin": 182.5002,
-                    "RightMargin": 535.4998,
-                    "TopMargin": 146.4988,
+                    "RightMargin": 536.4998,
+                    "TopMargin": 154.4988,
                     "BottomMargin": 286.5012,
                     "Tag": 265,
                     "ActionTag": 627921971,
@@ -298,16 +299,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.2644,
-                      "Y": 0.6483
+                      "X": 0.264,
+                      "Y": 0.6375
                     },
                     "PreSize": {
                       "X": 0.0507,
-                      "Y": 0.0805
+                      "Y": 0.0792
                     },
                     "LeftMargin": 179.0,
-                    "RightMargin": 532.0,
-                    "TopMargin": 147.0014,
+                    "RightMargin": 533.0,
+                    "TopMargin": 155.0014,
                     "BottomMargin": 286.9986,
                     "Tag": 266,
                     "ActionTag": -994952128,
@@ -320,12 +321,7 @@
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "昵称：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "昵称:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -338,12 +334,11 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 330.0001,
-                      "Y": 396.9995
+                      "X": 250.0,
+                      "Y": 400.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -352,34 +347,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4406,
-                      "Y": 0.8411
+                      "X": 0.3333,
+                      "Y": 0.8333
                     },
                     "PreSize": {
-                      "X": 0.0988,
-                      "Y": 0.072
+                      "X": 0.092,
+                      "Y": 0.0708
                     },
-                    "LeftMargin": 256.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 58.0005,
-                    "BottomMargin": 379.9995,
+                    "LeftMargin": 250.0,
+                    "RightMargin": 431.0,
+                    "TopMargin": 63.0,
+                    "BottomMargin": 383.0,
                     "Tag": 224,
                     "ActionTag": 789715468,
                     "Size": {
-                      "X": 74.0,
+                      "X": 69.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11",
+                    "Name": "Text_name",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "I D ：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "ID:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -392,12 +382,11 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 330.0001,
-                      "Y": 354.9995
+                      "X": 250.0,
+                      "Y": 360.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -406,88 +395,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4406,
-                      "Y": 0.7521
+                      "X": 0.3333,
+                      "Y": 0.75
                     },
                     "PreSize": {
-                      "X": 0.0761,
-                      "Y": 0.072
+                      "X": 0.052,
+                      "Y": 0.0708
                     },
-                    "LeftMargin": 273.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 100.0005,
-                    "BottomMargin": 337.9995,
+                    "LeftMargin": 250.0,
+                    "RightMargin": 461.0,
+                    "TopMargin": 103.0,
+                    "BottomMargin": 343.0,
                     "Tag": 225,
                     "ActionTag": -1087728718,
                     "Size": {
-                      "X": 57.0,
+                      "X": 39.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11_0",
+                    "Name": "Text_id",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
-                    },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
-                    "AnchorPoint": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 330.0001,
-                      "Y": 314.0
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.4406,
-                      "Y": 0.6653
-                    },
-                    "PreSize": {
-                      "X": 0.0187,
-                      "Y": 0.072
-                    },
-                    "LeftMargin": 316.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 141.0,
-                    "BottomMargin": 297.0,
-                    "Tag": 226,
-                    "ActionTag": 689410540,
-                    "Size": {
-                      "X": 14.0,
-                      "Y": 34.0
-                    },
-                    "Name": "Text_11_1",
-                    "ctype": "TextObjectData"
-                  },
-                  {
-                    "FontSize": 30,
-                    "LabelText": "I P",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "IP:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -503,8 +433,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 273.0,
-                      "Y": 313.0
+                      "X": 250.0,
+                      "Y": 320.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -513,34 +443,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3645,
-                      "Y": 0.6631
+                      "X": 0.3333,
+                      "Y": 0.6667
                     },
                     "PreSize": {
-                      "X": 0.0467,
-                      "Y": 0.072
+                      "X": 0.0493,
+                      "Y": 0.0708
                     },
-                    "LeftMargin": 273.0,
-                    "RightMargin": 441.0,
-                    "TopMargin": 142.0,
-                    "BottomMargin": 296.0,
+                    "LeftMargin": 250.0,
+                    "RightMargin": 463.0,
+                    "TopMargin": 143.0,
+                    "BottomMargin": 303.0,
                     "Tag": 41,
                     "ActionTag": -118266843,
                     "Size": {
-                      "X": 35.0,
+                      "X": 37.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11_1_0",
+                    "Name": "Text_ip",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "这里最多七个字",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "这里最多七个字__",
                     "OutlineColor": {
                       "R": 123,
                       "G": 97,
@@ -559,7 +484,7 @@
                     },
                     "Position": {
                       "X": 350.0001,
-                      "Y": 396.9995
+                      "Y": 400.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -568,22 +493,22 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4673,
-                      "Y": 0.8411
+                      "X": 0.4667,
+                      "Y": 0.8333
                     },
                     "PreSize": {
-                      "X": 0.2844,
-                      "Y": 0.0763
+                      "X": 0.3253,
+                      "Y": 0.0708
                     },
                     "LeftMargin": 350.0001,
-                    "RightMargin": 185.9999,
-                    "TopMargin": 57.0005,
-                    "BottomMargin": 378.9995,
+                    "RightMargin": 155.9999,
+                    "TopMargin": 63.0,
+                    "BottomMargin": 383.0,
                     "Tag": 262,
                     "ActionTag": -1019487879,
                     "Size": {
-                      "X": 213.0,
-                      "Y": 36.0
+                      "X": 244.0,
+                      "Y": 34.0
                     },
                     "Name": "lb_nickname",
                     "ctype": "TextObjectData"
@@ -591,11 +516,6 @@
                   {
                     "FontSize": 30,
                     "LabelText": "1234567890",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -612,7 +532,7 @@
                     },
                     "Position": {
                       "X": 350.0001,
-                      "Y": 354.9995
+                      "Y": 360.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -623,21 +543,21 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4673,
-                      "Y": 0.7521
+                      "X": 0.4667,
+                      "Y": 0.75
                     },
                     "PreSize": {
-                      "X": 0.2216,
-                      "Y": 0.072
+                      "X": 0.2227,
+                      "Y": 0.0708
                     },
                     "LeftMargin": 350.0001,
                     "RightMargin": 232.9999,
-                    "TopMargin": 100.0005,
-                    "BottomMargin": 337.9995,
+                    "TopMargin": 103.0,
+                    "BottomMargin": 343.0,
                     "Tag": 267,
                     "ActionTag": 581923852,
                     "Size": {
-                      "X": 166.0,
+                      "X": 167.0,
                       "Y": 34.0
                     },
                     "Name": "lb_id",
@@ -646,11 +566,6 @@
                   {
                     "FontSize": 30,
                     "LabelText": "255.255.255.255",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -667,7 +582,7 @@
                     },
                     "Position": {
                       "X": 350.0001,
-                      "Y": 312.9991
+                      "Y": 320.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -678,21 +593,21 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4673,
-                      "Y": 0.6631
+                      "X": 0.4667,
+                      "Y": 0.6667
                     },
                     "PreSize": {
-                      "X": 0.3071,
-                      "Y": 0.072
+                      "X": 0.3013,
+                      "Y": 0.0708
                     },
                     "LeftMargin": 350.0001,
-                    "RightMargin": 168.9999,
-                    "TopMargin": 142.0009,
-                    "BottomMargin": 295.9991,
+                    "RightMargin": 173.9999,
+                    "TopMargin": 143.0,
+                    "BottomMargin": 303.0,
                     "Tag": 269,
                     "ActionTag": 151328342,
                     "Size": {
-                      "X": 230.0,
+                      "X": 226.0,
                       "Y": 34.0
                     },
                     "Name": "lb_ip",
@@ -700,7 +615,7 @@
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 20,
+                    "FontSize": 30,
                     "LabelText": "位置: ",
                     "FontResource": {
                       "Type": "Default",
@@ -721,8 +636,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 12.9124,
-                      "Y": 16.0899
+                      "X": 250.0,
+                      "Y": 260.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -731,17 +646,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0172,
-                      "Y": 0.0341
+                      "X": 0.3333,
+                      "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.4433,
-                      "Y": 0.0975
+                      "X": 0.4427,
+                      "Y": 0.0958
                     },
-                    "LeftMargin": 12.9124,
-                    "RightMargin": 404.0876,
-                    "TopMargin": 409.9101,
-                    "BottomMargin": 16.0899,
+                    "LeftMargin": 250.0,
+                    "RightMargin": 168.0,
+                    "TopMargin": 174.0,
+                    "BottomMargin": 260.0,
                     "Tag": 13,
                     "ActionTag": -440715927,
                     "Size": {
@@ -777,16 +692,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1375,
-                      "Y": 0.3453
+                      "X": 0.1373,
+                      "Y": 0.3396
                     },
                     "PreSize": {
-                      "X": 0.1589,
-                      "Y": 0.2436
+                      "X": 0.1587,
+                      "Y": 0.2396
                     },
                     "LeftMargin": 43.5,
-                    "RightMargin": 586.5,
-                    "TopMargin": 251.5,
+                    "RightMargin": 587.5,
+                    "TopMargin": 259.5,
                     "BottomMargin": 105.5,
                     "Tag": 243,
                     "Children": [
@@ -871,16 +786,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3191,
-                      "Y": 0.3453
+                      "X": 0.3187,
+                      "Y": 0.3396
                     },
                     "PreSize": {
-                      "X": 0.1589,
-                      "Y": 0.2436
+                      "X": 0.1587,
+                      "Y": 0.2396
                     },
                     "LeftMargin": 179.5,
-                    "RightMargin": 450.5,
-                    "TopMargin": 251.5,
+                    "RightMargin": 451.5,
+                    "TopMargin": 259.5,
                     "BottomMargin": 105.5,
                     "Tag": 244,
                     "Children": [
@@ -965,16 +880,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5007,
-                      "Y": 0.3453
+                      "X": 0.5,
+                      "Y": 0.3396
                     },
                     "PreSize": {
-                      "X": 0.1589,
-                      "Y": 0.2436
+                      "X": 0.1587,
+                      "Y": 0.2396
                     },
                     "LeftMargin": 315.5,
-                    "RightMargin": 314.5,
-                    "TopMargin": 251.5,
+                    "RightMargin": 315.5,
+                    "TopMargin": 259.5,
                     "BottomMargin": 105.5,
                     "Tag": 242,
                     "Children": [
@@ -1059,16 +974,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6822,
-                      "Y": 0.3453
+                      "X": 0.6813,
+                      "Y": 0.3396
                     },
                     "PreSize": {
-                      "X": 0.1589,
-                      "Y": 0.2436
+                      "X": 0.1587,
+                      "Y": 0.2396
                     },
                     "LeftMargin": 451.5,
-                    "RightMargin": 178.5,
-                    "TopMargin": 251.5,
+                    "RightMargin": 179.5,
+                    "TopMargin": 259.5,
                     "BottomMargin": 105.5,
                     "Tag": 245,
                     "Children": [
@@ -1153,16 +1068,16 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.8638,
-                      "Y": 0.3453
+                      "X": 0.8627,
+                      "Y": 0.3396
                     },
                     "PreSize": {
-                      "X": 0.1589,
-                      "Y": 0.2436
+                      "X": 0.1587,
+                      "Y": 0.2396
                     },
                     "LeftMargin": 587.5,
-                    "RightMargin": 42.5,
-                    "TopMargin": 251.5,
+                    "RightMargin": 43.5,
+                    "TopMargin": 259.5,
                     "BottomMargin": 105.5,
                     "Tag": 246,
                     "Children": [
@@ -1225,8 +1140,8 @@
                 ],
                 "ActionTag": 1084493223,
                 "Size": {
-                  "X": 749.0,
-                  "Y": 472.0
+                  "X": 750.0,
+                  "Y": 480.0
                 },
                 "Name": "panel",
                 "ctype": "ImageViewObjectData"
@@ -1257,7 +1172,6 @@
         "resources/bg/effect_emoji_good.png",
         "resources/bg/effect_emoji_shoe.png",
         "resources/bg/player_info_bg1.png",
-        "resources/fonts/FZCY.ttf",
         "resources/transparent/transparent_1280x720.png",
         "resources/transparent/transparent_64x64.png",
         "resources/unit/female.png",

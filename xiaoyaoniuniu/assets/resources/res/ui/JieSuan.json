@@ -241,12 +241,7 @@
                     "Children": [
                       {
                         "FontSize": 28,
-                        "LabelText": "王小明王小明",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
+                        "LabelText": "王小明王小明__",
                         "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "R": 0,
@@ -283,15 +278,14 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 15.0,
-                        "RightMargin": -185.0,
-                        "TopMargin": -46.5,
-                        "BottomMargin": 13.5,
+                        "RightMargin": -200.0,
+                        "TopMargin": -46.0,
+                        "BottomMargin": 14.0,
                         "Tag": 1427,
                         "ActionTag": 82277286,
                         "Size": {
-                          "X": 170.0,
-                          "Y": 33.0
+                          "X": 200.0,
+                          "Y": 32.0
                         },
                         "Name": "lb_nickname",
                         "ctype": "TextObjectData"
@@ -311,6 +305,8 @@
                         "ColorVector": {
                           "ScaleY": 1.0
                         },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
                         "TouchEnable": true,
                         "AnchorPoint": {
                           "ScaleX": 0.5,
@@ -343,11 +339,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -384,16 +375,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 271,
                             "ActionTag": -575295258,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_0",
                             "ctype": "TextObjectData"
@@ -401,11 +394,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -442,16 +430,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 275,
                             "ActionTag": 728134348,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_1",
                             "ctype": "TextObjectData"
@@ -459,11 +449,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -500,16 +485,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 272,
                             "ActionTag": 1170051916,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_0",
                             "ctype": "TextObjectData"
@@ -517,11 +504,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -558,16 +540,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 276,
                             "ActionTag": -172732641,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_1",
                             "ctype": "TextObjectData"
@@ -575,11 +559,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -616,16 +595,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 273,
                             "ActionTag": 1888352742,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_0",
                             "ctype": "TextObjectData"
@@ -633,11 +614,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -674,16 +650,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 277,
                             "ActionTag": -659736791,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_1",
                             "ctype": "TextObjectData"
@@ -691,11 +669,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -732,16 +705,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 274,
                             "ActionTag": -1086405302,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_0",
                             "ctype": "TextObjectData"
@@ -749,11 +724,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -790,16 +760,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 278,
                             "ActionTag": -248274876,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_1",
                             "ctype": "TextObjectData"
@@ -843,7 +815,7 @@
                     "AnchorPoint": {},
                     "Position": {
                       "X": 390.0,
-                      "Y": 338.0
+                      "Y": 358.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -853,7 +825,7 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.3047,
-                      "Y": 0.4694
+                      "Y": 0.4972
                     },
                     "PreSize": {
                       "X": 0.0,
@@ -861,18 +833,13 @@
                     },
                     "LeftMargin": 390.0,
                     "RightMargin": 890.0,
-                    "TopMargin": 382.0,
-                    "BottomMargin": 338.0,
+                    "TopMargin": 362.0,
+                    "BottomMargin": 358.0,
                     "Tag": 279,
                     "Children": [
                       {
                         "FontSize": 28,
-                        "LabelText": "王小明王小明",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
+                        "LabelText": "王小明王小明__",
                         "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "R": 0,
@@ -909,15 +876,14 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 15.0,
-                        "RightMargin": -185.0,
-                        "TopMargin": -46.5,
-                        "BottomMargin": 13.5,
+                        "RightMargin": -200.0,
+                        "TopMargin": -46.0,
+                        "BottomMargin": 14.0,
                         "Tag": 280,
                         "ActionTag": -2031741692,
                         "Size": {
-                          "X": 170.0,
-                          "Y": 33.0
+                          "X": 200.0,
+                          "Y": 32.0
                         },
                         "Name": "lb_nickname",
                         "ctype": "TextObjectData"
@@ -971,11 +937,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1012,16 +973,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 282,
                             "ActionTag": 1728304093,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_0",
                             "ctype": "TextObjectData"
@@ -1029,11 +992,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1070,16 +1028,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 283,
                             "ActionTag": -466954711,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_1",
                             "ctype": "TextObjectData"
@@ -1087,11 +1047,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1128,16 +1083,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 284,
                             "ActionTag": -1742255422,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_0",
                             "ctype": "TextObjectData"
@@ -1145,11 +1102,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1186,16 +1138,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 285,
                             "ActionTag": 1150916002,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_1",
                             "ctype": "TextObjectData"
@@ -1203,11 +1157,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1244,16 +1193,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 286,
                             "ActionTag": 1081775337,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_0",
                             "ctype": "TextObjectData"
@@ -1261,11 +1212,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1302,16 +1248,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 287,
                             "ActionTag": -2025724191,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_1",
                             "ctype": "TextObjectData"
@@ -1319,11 +1267,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1360,16 +1303,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 288,
                             "ActionTag": 674386097,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_0",
                             "ctype": "TextObjectData"
@@ -1377,11 +1322,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1418,16 +1358,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 289,
                             "ActionTag": 1918465217,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_1",
                             "ctype": "TextObjectData"
@@ -1471,7 +1413,7 @@
                     "AnchorPoint": {},
                     "Position": {
                       "X": 390.0,
-                      "Y": 246.0
+                      "Y": 286.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1481,7 +1423,7 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.3047,
-                      "Y": 0.3417
+                      "Y": 0.3972
                     },
                     "PreSize": {
                       "X": 0.0,
@@ -1489,18 +1431,13 @@
                     },
                     "LeftMargin": 390.0,
                     "RightMargin": 890.0,
-                    "TopMargin": 474.0,
-                    "BottomMargin": 246.0,
+                    "TopMargin": 434.0,
+                    "BottomMargin": 286.0,
                     "Tag": 290,
                     "Children": [
                       {
                         "FontSize": 28,
-                        "LabelText": "王小明王小明",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
+                        "LabelText": "王小明王小明__",
                         "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "R": 0,
@@ -1537,15 +1474,14 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 15.0,
-                        "RightMargin": -185.0,
-                        "TopMargin": -46.5,
-                        "BottomMargin": 13.5,
+                        "RightMargin": -200.0,
+                        "TopMargin": -46.0,
+                        "BottomMargin": 14.0,
                         "Tag": 291,
                         "ActionTag": -1309735445,
                         "Size": {
-                          "X": 170.0,
-                          "Y": 33.0
+                          "X": 200.0,
+                          "Y": 32.0
                         },
                         "Name": "lb_nickname",
                         "ctype": "TextObjectData"
@@ -1599,11 +1535,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1640,16 +1571,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 293,
                             "ActionTag": -1512098920,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_0",
                             "ctype": "TextObjectData"
@@ -1657,11 +1590,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1698,16 +1626,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 294,
                             "ActionTag": 402404653,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_1",
                             "ctype": "TextObjectData"
@@ -1715,11 +1645,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1756,16 +1681,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 295,
                             "ActionTag": -1710667429,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_0",
                             "ctype": "TextObjectData"
@@ -1773,11 +1700,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1814,16 +1736,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 296,
                             "ActionTag": 1744430279,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_1",
                             "ctype": "TextObjectData"
@@ -1831,11 +1755,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1872,16 +1791,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 297,
                             "ActionTag": 1423935048,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_0",
                             "ctype": "TextObjectData"
@@ -1889,11 +1810,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1930,16 +1846,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 298,
                             "ActionTag": -1062553460,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_1",
                             "ctype": "TextObjectData"
@@ -1947,11 +1865,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -1988,16 +1901,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 299,
                             "ActionTag": 402146382,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_0",
                             "ctype": "TextObjectData"
@@ -2005,11 +1920,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2046,16 +1956,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 300,
                             "ActionTag": -1078934126,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_1",
                             "ctype": "TextObjectData"
@@ -2099,7 +2011,7 @@
                     "AnchorPoint": {},
                     "Position": {
                       "X": 390.0,
-                      "Y": 154.0
+                      "Y": 214.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2109,7 +2021,7 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.3047,
-                      "Y": 0.2139
+                      "Y": 0.2972
                     },
                     "PreSize": {
                       "X": 0.0,
@@ -2117,18 +2029,13 @@
                     },
                     "LeftMargin": 390.0,
                     "RightMargin": 890.0,
-                    "TopMargin": 566.0,
-                    "BottomMargin": 154.0,
+                    "TopMargin": 506.0,
+                    "BottomMargin": 214.0,
                     "Tag": 301,
                     "Children": [
                       {
                         "FontSize": 28,
-                        "LabelText": "王小明王小明",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
+                        "LabelText": "王小明王小明__",
                         "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "R": 0,
@@ -2165,15 +2072,14 @@
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 15.0,
-                        "RightMargin": -185.0,
-                        "TopMargin": -46.5,
-                        "BottomMargin": 13.5,
+                        "RightMargin": -200.0,
+                        "TopMargin": -46.0,
+                        "BottomMargin": 14.0,
                         "Tag": 302,
                         "ActionTag": -1996523596,
                         "Size": {
-                          "X": 170.0,
-                          "Y": 33.0
+                          "X": 200.0,
+                          "Y": 32.0
                         },
                         "Name": "lb_nickname",
                         "ctype": "TextObjectData"
@@ -2227,11 +2133,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2268,16 +2169,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 304,
                             "ActionTag": -615427077,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_0",
                             "ctype": "TextObjectData"
@@ -2285,11 +2188,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2326,16 +2224,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 40.5,
-                            "RightMargin": -7.5,
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 305,
                             "ActionTag": -318046411,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_0_1",
                             "ctype": "TextObjectData"
@@ -2343,11 +2243,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2384,16 +2279,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 306,
                             "ActionTag": 1995727724,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_0",
                             "ctype": "TextObjectData"
@@ -2401,11 +2298,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2442,16 +2334,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 24.5,
-                            "RightMargin": 8.5,
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 307,
                             "ActionTag": -14979191,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_1_1",
                             "ctype": "TextObjectData"
@@ -2459,11 +2353,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2500,16 +2389,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 308,
                             "ActionTag": -1193471135,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_0",
                             "ctype": "TextObjectData"
@@ -2517,11 +2408,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "8_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2558,16 +2444,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5147,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": 8.5,
-                            "RightMargin": 24.5,
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 309,
                             "ActionTag": 706784411,
                             "Size": {
-                              "X": 35.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_2_1",
                             "ctype": "TextObjectData"
@@ -2575,11 +2463,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2616,16 +2499,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 310,
                             "ActionTag": -398015224,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_0",
                             "ctype": "TextObjectData"
@@ -2633,11 +2518,6 @@
                           {
                             "FontSize": 28,
                             "LabelText": "+_",
-                            "FontResource": {
-                              "Type": "Normal",
-                              "Path": "ui/resources/fonts/FZCY.ttf",
-                              "Plist": ""
-                            },
                             "HorizontalAlignmentType": "HT_Center",
                             "VerticalAlignmentType": "VT_Center",
                             "OutlineColor": {
@@ -2674,16 +2554,18 @@
                               "Y": 0.5
                             },
                             "PreSize": {
-                              "X": 0.5294,
-                              "Y": 1.0
+                              "X": 0.4706,
+                              "Y": 0.9697
                             },
-                            "LeftMargin": -8.0,
-                            "RightMargin": 40.0,
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
                             "Tag": 311,
                             "ActionTag": -1497384430,
                             "Size": {
-                              "X": 36.0,
-                              "Y": 33.0
+                              "X": 32.0,
+                              "Y": 32.0
                             },
                             "Name": "lb_score_3_1",
                             "ctype": "TextObjectData"
@@ -2704,6 +2586,604 @@
                       "Y": 0.0
                     },
                     "Name": "row3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 390.0,
+                      "Y": 144.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3047,
+                      "Y": 0.2
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 390.0,
+                    "RightMargin": 890.0,
+                    "TopMargin": 576.0,
+                    "BottomMargin": 144.0,
+                    "Tag": 503,
+                    "Children": [
+                      {
+                        "FontSize": 28,
+                        "LabelText": "王小明王小明__",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 30.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "RightMargin": -200.0,
+                        "TopMargin": -46.0,
+                        "BottomMargin": 14.0,
+                        "Tag": 504,
+                        "ActionTag": -2011927707,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 32.0
+                        },
+                        "Name": "lb_nickname",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 348.0,
+                          "Y": 30.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 314.0,
+                        "RightMargin": -382.0,
+                        "TopMargin": -46.5,
+                        "BottomMargin": 13.5,
+                        "Tag": 505,
+                        "Children": [
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 58.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.8529,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 506,
+                            "ActionTag": 661158931,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_0_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 58.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.8529,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 42.0,
+                            "RightMargin": -6.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 507,
+                            "ActionTag": -789187136,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_0_1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 42.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6176,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 508,
+                            "ActionTag": 1041920051,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_1_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 42.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6176,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 26.0,
+                            "RightMargin": 10.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 509,
+                            "ActionTag": -856635424,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_1_1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 26.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3824,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 510,
+                            "ActionTag": 1315131822,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_2_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "8_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 26.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3824,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": 10.0,
+                            "RightMargin": 26.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 511,
+                            "ActionTag": -1120828698,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_2_1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "+_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 10.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.1471,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 512,
+                            "ActionTag": -71157791,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_3_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 28,
+                            "LabelText": "+_",
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 61,
+                              "G": 55,
+                              "B": 55
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 10.0,
+                              "Y": 16.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "B": 0
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.1471,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.4706,
+                              "Y": 0.9697
+                            },
+                            "LeftMargin": -6.0,
+                            "RightMargin": 42.0,
+                            "TopMargin": 0.5,
+                            "BottomMargin": 0.5,
+                            "Tag": 513,
+                            "ActionTag": 1086263417,
+                            "Size": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Name": "lb_score_3_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 652932536,
+                        "Size": {
+                          "X": 68.0,
+                          "Y": 33.0
+                        },
+                        "Name": "clip",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 195728627,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "row4",
                     "ctype": "PanelObjectData"
                   },
                   {
@@ -2746,13 +3226,9 @@
                     "Tag": 700,
                     "Children": [
                       {
+                        "IsCustomSize": true,
                         "FontSize": 40,
                         "LabelText": "开始游戏",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
                         "OutlineSize": 2,
                         "OutlineColor": {
                           "R": 61,
@@ -2788,18 +3264,18 @@
                           "Y": 0.54
                         },
                         "PreSize": {
-                          "X": 0.5655,
-                          "Y": 0.5632
+                          "X": 0.6207,
+                          "Y": 0.5172
                         },
-                        "LeftMargin": 63.0,
-                        "RightMargin": 63.0,
-                        "TopMargin": 15.52,
-                        "BottomMargin": 22.48,
+                        "LeftMargin": 55.0,
+                        "RightMargin": 55.0,
+                        "TopMargin": 17.52,
+                        "BottomMargin": 24.48,
                         "Tag": 701,
                         "ActionTag": 1400008444,
                         "Size": {
-                          "X": 164.0,
-                          "Y": 49.0
+                          "X": 180.0,
+                          "Y": 45.0
                         },
                         "Name": "_",
                         "ctype": "TextObjectData"
@@ -2853,13 +3329,9 @@
                     "Tag": 52,
                     "Children": [
                       {
+                        "IsCustomSize": true,
                         "FontSize": 40,
                         "LabelText": "查看总战绩",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
                         "OutlineSize": 2,
                         "OutlineColor": {
                           "R": 61,
@@ -2895,18 +3367,18 @@
                           "Y": 0.54
                         },
                         "PreSize": {
-                          "X": 0.7034,
-                          "Y": 0.5632
+                          "X": 0.7586,
+                          "Y": 0.5172
                         },
-                        "LeftMargin": 43.0,
-                        "RightMargin": 43.0,
-                        "TopMargin": 15.52,
-                        "BottomMargin": 22.48,
+                        "LeftMargin": 35.0,
+                        "RightMargin": 35.0,
+                        "TopMargin": 17.52,
+                        "BottomMargin": 24.48,
                         "Tag": 53,
                         "ActionTag": 1210722901,
                         "Size": {
-                          "X": 204.0,
-                          "Y": 49.0
+                          "X": 220.0,
+                          "Y": 45.0
                         },
                         "Name": "_",
                         "ctype": "TextObjectData"
@@ -2950,8 +3422,7 @@
       "UsedResources": [
         "resources/bg/img_end_lose.png",
         "resources/bg/img_end_win.png",
-        "resources/button/button_g.png",
-        "resources/fonts/FZCY.ttf"
+        "resources/button/button_g.png"
       ],
       "ctype": "GameFileData"
     }

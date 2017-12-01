@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f696ed8-4fef-43cf-9143-85ca4f8f5e20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "texiaozi": {
+      "ver": "1.0.3",
+      "uuid": "718239f7-b9fc-494d-8f1a-aa3eece2e2c2",
+      "rawTextureUuid": "9f696ed8-4fef-43cf-9143-85ca4f8f5e20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 10,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 505,
+      "height": 488,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
