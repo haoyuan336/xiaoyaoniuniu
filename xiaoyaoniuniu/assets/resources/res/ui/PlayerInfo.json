@@ -321,12 +321,7 @@
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "昵称：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "IP:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -339,12 +334,11 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 330.0001,
-                      "Y": 161.9999
+                      "X": 249.9999,
+                      "Y": 80.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -353,34 +347,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4406,
-                      "Y": 0.6894
+                      "X": 0.3338,
+                      "Y": 0.3404
                     },
                     "PreSize": {
-                      "X": 0.0988,
+                      "X": 0.0494,
                       "Y": 0.1447
                     },
-                    "LeftMargin": 256.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 56.0001,
-                    "BottomMargin": 144.9999,
-                    "Tag": 224,
-                    "ActionTag": 789715468,
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 462.0001,
+                    "TopMargin": 138.0,
+                    "BottomMargin": 63.0,
+                    "Tag": 859,
+                    "ActionTag": 392346395,
                     "Size": {
-                      "X": 74.0,
+                      "X": 37.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11",
+                    "Name": "Text_ip",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "I D ：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "ID:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -393,12 +382,11 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 330.0001,
-                      "Y": 119.9999
+                      "X": 249.9999,
+                      "Y": 120.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -407,88 +395,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4406,
+                      "X": 0.3338,
                       "Y": 0.5106
                     },
                     "PreSize": {
-                      "X": 0.0761,
+                      "X": 0.0521,
                       "Y": 0.1447
                     },
-                    "LeftMargin": 273.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 98.0001,
-                    "BottomMargin": 102.9999,
-                    "Tag": 225,
-                    "ActionTag": -1087728718,
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 460.0001,
+                    "TopMargin": 98.0,
+                    "BottomMargin": 103.0,
+                    "Tag": 860,
+                    "ActionTag": -1144267085,
                     "Size": {
-                      "X": 57.0,
+                      "X": 39.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11_0",
+                    "Name": "Text_id",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "：",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
-                    },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
-                    "AnchorPoint": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 330.0001,
-                      "Y": 79.0
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.4406,
-                      "Y": 0.3362
-                    },
-                    "PreSize": {
-                      "X": 0.0187,
-                      "Y": 0.1447
-                    },
-                    "LeftMargin": 316.0001,
-                    "RightMargin": 418.9999,
-                    "TopMargin": 139.0,
-                    "BottomMargin": 62.0,
-                    "Tag": 226,
-                    "ActionTag": 689410540,
-                    "Size": {
-                      "X": 14.0,
-                      "Y": 34.0
-                    },
-                    "Name": "Text_11_1",
-                    "ctype": "TextObjectData"
-                  },
-                  {
-                    "FontSize": 30,
-                    "LabelText": "I P",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "昵称:",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -504,8 +433,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 273.0,
-                      "Y": 78.0
+                      "X": 249.9999,
+                      "Y": 160.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -514,34 +443,29 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3645,
-                      "Y": 0.3319
+                      "X": 0.3338,
+                      "Y": 0.6809
                     },
                     "PreSize": {
-                      "X": 0.0467,
+                      "X": 0.0921,
                       "Y": 0.1447
                     },
-                    "LeftMargin": 273.0,
-                    "RightMargin": 441.0,
-                    "TopMargin": 140.0,
-                    "BottomMargin": 61.0,
-                    "Tag": 42,
-                    "ActionTag": -231639396,
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 430.0001,
+                    "TopMargin": 58.0,
+                    "BottomMargin": 143.0,
+                    "Tag": 861,
+                    "ActionTag": 1679422003,
                     "Size": {
-                      "X": 35.0,
+                      "X": 69.0,
                       "Y": 34.0
                     },
-                    "Name": "Text_11_1_0",
+                    "Name": "Text_name",
                     "ctype": "TextObjectData"
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "这里最多七个字",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
+                    "LabelText": "这里最多七个字__",
                     "OutlineColor": {
                       "R": 123,
                       "G": 97,
@@ -560,7 +484,7 @@
                     },
                     "Position": {
                       "X": 350.0001,
-                      "Y": 161.9999
+                      "Y": 160.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -570,21 +494,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4673,
-                      "Y": 0.6894
+                      "Y": 0.6809
                     },
                     "PreSize": {
-                      "X": 0.2844,
-                      "Y": 0.1532
+                      "X": 0.3258,
+                      "Y": 0.1447
                     },
                     "LeftMargin": 350.0001,
-                    "RightMargin": 185.9999,
-                    "TopMargin": 55.0001,
-                    "BottomMargin": 143.9999,
+                    "RightMargin": 154.9999,
+                    "TopMargin": 58.0,
+                    "BottomMargin": 143.0,
                     "Tag": 262,
                     "ActionTag": -1019487879,
                     "Size": {
-                      "X": 213.0,
-                      "Y": 36.0
+                      "X": 244.0,
+                      "Y": 34.0
                     },
                     "Name": "lb_nickname",
                     "ctype": "TextObjectData"
@@ -592,11 +516,6 @@
                   {
                     "FontSize": 30,
                     "LabelText": "1234567890",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -628,17 +547,17 @@
                       "Y": 0.5106
                     },
                     "PreSize": {
-                      "X": 0.2216,
+                      "X": 0.223,
                       "Y": 0.1447
                     },
                     "LeftMargin": 350.0001,
-                    "RightMargin": 232.9999,
+                    "RightMargin": 231.9999,
                     "TopMargin": 98.0001,
                     "BottomMargin": 102.9999,
                     "Tag": 267,
                     "ActionTag": 581923852,
                     "Size": {
-                      "X": 166.0,
+                      "X": 167.0,
                       "Y": 34.0
                     },
                     "Name": "lb_id",
@@ -647,11 +566,6 @@
                   {
                     "FontSize": 30,
                     "LabelText": "255.255.255.255",
-                    "FontResource": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/FZCY.ttf",
-                      "Plist": ""
-                    },
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -668,7 +582,7 @@
                     },
                     "Position": {
                       "X": 350.0001,
-                      "Y": 77.9998
+                      "Y": 80.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -680,20 +594,20 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4673,
-                      "Y": 0.3319
+                      "Y": 0.3404
                     },
                     "PreSize": {
-                      "X": 0.3071,
+                      "X": 0.3017,
                       "Y": 0.1447
                     },
                     "LeftMargin": 350.0001,
-                    "RightMargin": 168.9999,
-                    "TopMargin": 140.0002,
-                    "BottomMargin": 60.9998,
+                    "RightMargin": 172.9999,
+                    "TopMargin": 138.0,
+                    "BottomMargin": 63.0,
                     "Tag": 269,
                     "ActionTag": 151328342,
                     "Size": {
-                      "X": 230.0,
+                      "X": 226.0,
                       "Y": 34.0
                     },
                     "Name": "lb_ip",
@@ -782,7 +696,6 @@
       "UsedResources": [
         "resources/bg/avatarBg1.png",
         "resources/bg/player_info_bg.png",
-        "resources/fonts/FZCY.ttf",
         "resources/transparent/transparent_1280x720.png",
         "resources/transparent/transparent_64x64.png",
         "resources/unit/female.png",

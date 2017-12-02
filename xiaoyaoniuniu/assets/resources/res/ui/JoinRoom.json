@@ -66,15 +66,15 @@
                 },
                 "Scale9OriginX": 159,
                 "Scale9OriginY": 108,
-                "Scale9Width": 393,
-                "Scale9Height": 404,
+                "Scale9Width": 456,
+                "Scale9Height": 432,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 640.0,
-                  "Y": 360.0
+                  "X": 640.0002,
+                  "Y": 358.6625
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -86,16 +86,16 @@
                 "PositionPercentYEnabled": true,
                 "PrePosition": {
                   "X": 0.5,
-                  "Y": 0.5
+                  "Y": 0.4981
                 },
                 "PreSize": {
                   "X": 0.5555,
                   "Y": 0.8611
                 },
-                "LeftMargin": 284.5,
-                "RightMargin": 284.5,
-                "TopMargin": 50.0,
-                "BottomMargin": 50.0,
+                "LeftMargin": 284.5002,
+                "RightMargin": 284.4998,
+                "TopMargin": 51.3375,
+                "BottomMargin": 48.6625,
                 "Tag": 373,
                 "Children": [
                   {
@@ -113,8 +113,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 563.0,
-                      "Y": 96.0
+                      "X": 563.0002,
+                      "Y": 93.9998
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -124,79 +124,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.7918,
-                      "Y": 0.1548
+                      "Y": 0.1516
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 461.0,
-                    "RightMargin": 46.0,
-                    "TopMargin": 481.5,
-                    "BottomMargin": 53.5,
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 481.0002,
+                    "BottomMargin": 48.9998,
                     "Tag": 86,
-                    "Children": [
-                      {
-                        "FontSize": 40,
-                        "LabelText": "删除",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {},
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.4069,
-                          "Y": 0.5294
-                        },
-                        "LeftMargin": 60.5,
-                        "RightMargin": 60.5,
-                        "TopMargin": 20.0,
-                        "BottomMargin": 20.0,
-                        "Tag": 419,
-                        "ActionTag": 411188254,
-                        "Size": {
-                          "X": 83.0,
-                          "Y": 45.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -656861144,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "delete",
                     "ctype": "SpriteObjectData"
@@ -217,7 +159,7 @@
                     },
                     "Position": {
                       "X": 147.0,
-                      "Y": 96.0
+                      "Y": 94.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -227,79 +169,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.2068,
-                      "Y": 0.1548
+                      "Y": 0.1516
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 45.0,
-                    "RightMargin": 462.0,
-                    "TopMargin": 481.5,
-                    "BottomMargin": 53.5,
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 481.0,
+                    "BottomMargin": 49.0,
                     "Tag": 87,
-                    "Children": [
-                      {
-                        "FontSize": 40,
-                        "LabelText": "重输",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {},
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.4069,
-                          "Y": 0.5294
-                        },
-                        "LeftMargin": 60.5,
-                        "RightMargin": 60.5,
-                        "TopMargin": 20.0,
-                        "BottomMargin": 20.0,
-                        "Tag": 418,
-                        "ActionTag": 2076869958,
-                        "Size": {
-                          "X": 83.0,
-                          "Y": 45.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -694018999,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "reInput",
                     "ctype": "SpriteObjectData"
@@ -307,7 +191,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_xia.png",
+                      "Path": "ui/resources/bg/join_0.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -320,7 +204,7 @@
                     },
                     "Position": {
                       "X": 355.0,
-                      "Y": 96.0
+                      "Y": 94.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -330,83 +214,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4993,
-                      "Y": 0.1548
+                      "Y": 0.1516
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 253.0,
-                    "RightMargin": 254.0,
-                    "TopMargin": 481.5,
-                    "BottomMargin": 53.5,
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 481.0,
+                    "BottomMargin": 49.0,
                     "Tag": 88,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "0",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1814,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 83.5,
-                        "RightMargin": 83.5,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 417,
-                        "ActionTag": -509855031,
-                        "Size": {
-                          "X": 37.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -1568431355,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "0",
                     "ctype": "SpriteObjectData"
@@ -414,7 +236,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_you.png",
+                      "Path": "ui/resources/bg/join_9.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -426,8 +248,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 563.0,
-                      "Y": 186.0
+                      "X": 563.0002,
+                      "Y": 187.9999
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -437,83 +259,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.7918,
-                      "Y": 0.3
+                      "Y": 0.3032
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 461.0,
-                    "RightMargin": 46.0,
-                    "TopMargin": 391.5,
-                    "BottomMargin": 143.5,
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 387.0001,
+                    "BottomMargin": 142.9999,
                     "Tag": 45,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "9",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1765,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.0,
-                        "RightMargin": 84.0,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 416,
-                        "ActionTag": 2082824773,
-                        "Size": {
-                          "X": 36.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -861840301,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "9",
                     "ctype": "SpriteObjectData"
@@ -521,7 +281,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_zhong.png",
+                      "Path": "ui/resources/bg/join_8.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -534,7 +294,7 @@
                     },
                     "Position": {
                       "X": 355.0,
-                      "Y": 186.0
+                      "Y": 188.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -544,83 +304,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4993,
-                      "Y": 0.3
+                      "Y": 0.3032
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 253.0,
-                    "RightMargin": 254.0,
-                    "TopMargin": 391.5,
-                    "BottomMargin": 143.5,
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 387.0,
+                    "BottomMargin": 143.0,
                     "Tag": 44,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "8",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1765,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.0,
-                        "RightMargin": 84.0,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 415,
-                        "ActionTag": 1029417428,
-                        "Size": {
-                          "X": 36.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": 349754325,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "8",
                     "ctype": "SpriteObjectData"
@@ -628,7 +326,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_zuo.png",
+                      "Path": "ui/resources/bg/join_7.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -641,7 +339,7 @@
                     },
                     "Position": {
                       "X": 147.0,
-                      "Y": 186.0
+                      "Y": 188.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -651,83 +349,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.2068,
-                      "Y": 0.3
+                      "Y": 0.3032
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 45.0,
-                    "RightMargin": 462.0,
-                    "TopMargin": 391.5,
-                    "BottomMargin": 143.5,
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 387.0,
+                    "BottomMargin": 143.0,
                     "Tag": 43,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "7",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1716,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.5,
-                        "RightMargin": 84.5,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 414,
-                        "ActionTag": -1913240171,
-                        "Size": {
-                          "X": 35.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -1110763963,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "7",
                     "ctype": "SpriteObjectData"
@@ -735,7 +371,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_you.png",
+                      "Path": "ui/resources/bg/join_6.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -747,8 +383,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 563.0,
-                      "Y": 276.0
+                      "X": 563.0002,
+                      "Y": 282.0001
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -758,83 +394,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.7918,
-                      "Y": 0.4452
+                      "Y": 0.4548
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 461.0,
-                    "RightMargin": 46.0,
-                    "TopMargin": 301.5,
-                    "BottomMargin": 233.5,
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 292.9999,
+                    "BottomMargin": 237.0001,
                     "Tag": 42,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "6",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1765,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.0,
-                        "RightMargin": 84.0,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 413,
-                        "ActionTag": -359766143,
-                        "Size": {
-                          "X": 36.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": 1981452654,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "6",
                     "ctype": "SpriteObjectData"
@@ -842,7 +416,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_zhong.png",
+                      "Path": "ui/resources/bg/join_5.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -855,7 +429,7 @@
                     },
                     "Position": {
                       "X": 355.0,
-                      "Y": 276.0
+                      "Y": 282.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -865,83 +439,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4993,
-                      "Y": 0.4452
+                      "Y": 0.4548
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 253.0,
-                    "RightMargin": 254.0,
-                    "TopMargin": 301.5,
-                    "BottomMargin": 233.5,
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 293.0,
+                    "BottomMargin": 237.0,
                     "Tag": 41,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "5",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1667,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 85.0,
-                        "RightMargin": 85.0,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 412,
-                        "ActionTag": -73028424,
-                        "Size": {
-                          "X": 34.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": 1576454516,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "5",
                     "ctype": "SpriteObjectData"
@@ -949,7 +461,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_zuo.png",
+                      "Path": "ui/resources/bg/join_4.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -962,7 +474,7 @@
                     },
                     "Position": {
                       "X": 147.0,
-                      "Y": 276.0
+                      "Y": 282.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -972,83 +484,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.2068,
-                      "Y": 0.4452
+                      "Y": 0.4548
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 45.0,
-                    "RightMargin": 462.0,
-                    "TopMargin": 301.5,
-                    "BottomMargin": 233.5,
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 293.0,
+                    "BottomMargin": 237.0,
                     "Tag": 40,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "4",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1814,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 83.5,
-                        "RightMargin": 83.5,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 411,
-                        "ActionTag": -1962537237,
-                        "Size": {
-                          "X": 37.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": 492895333,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "4",
                     "ctype": "SpriteObjectData"
@@ -1056,7 +506,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_youshang.png",
+                      "Path": "ui/resources/bg/join_3.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -1068,8 +518,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 563.0,
-                      "Y": 366.0
+                      "X": 563.0002,
+                      "Y": 377.0001
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1079,83 +529,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.7918,
-                      "Y": 0.5903
+                      "Y": 0.6081
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 461.0,
-                    "RightMargin": 46.0,
-                    "TopMargin": 211.5,
-                    "BottomMargin": 323.5,
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 197.9999,
+                    "BottomMargin": 332.0001,
                     "Tag": 39,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "3",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1716,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.5,
-                        "RightMargin": 84.5,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 372,
-                        "ActionTag": -849710053,
-                        "Size": {
-                          "X": 35.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -692068820,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "3",
                     "ctype": "SpriteObjectData"
@@ -1163,7 +551,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_shang.png",
+                      "Path": "ui/resources/bg/join_2.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -1176,7 +564,7 @@
                     },
                     "Position": {
                       "X": 355.0,
-                      "Y": 366.0
+                      "Y": 377.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1186,83 +574,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4993,
-                      "Y": 0.5903
+                      "Y": 0.6081
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 253.0,
-                    "RightMargin": 254.0,
-                    "TopMargin": 211.5,
-                    "BottomMargin": 323.5,
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 198.0,
+                    "BottomMargin": 332.0,
                     "Tag": 38,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "2",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1716,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 84.5,
-                        "RightMargin": 84.5,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 371,
-                        "ActionTag": -248465982,
-                        "Size": {
-                          "X": 35.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": 14379533,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "2",
                     "ctype": "SpriteObjectData"
@@ -1270,7 +596,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/bg/join_zuoshang.png",
+                      "Path": "ui/resources/bg/join_1.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -1283,7 +609,7 @@
                     },
                     "Position": {
                       "X": 147.0,
-                      "Y": 366.0
+                      "Y": 377.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1293,358 +619,347 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.2068,
-                      "Y": 0.5903
+                      "Y": 0.6081
                     },
                     "PreSize": {
-                      "X": 0.2869,
-                      "Y": 0.1371
+                      "X": 0.2672,
+                      "Y": 0.1452
                     },
-                    "LeftMargin": 45.0,
-                    "RightMargin": 462.0,
-                    "TopMargin": 211.5,
-                    "BottomMargin": 323.5,
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 198.0,
+                    "BottomMargin": 332.0,
                     "Tag": 37,
-                    "Children": [
-                      {
-                        "FontSize": 60,
-                        "LabelText": "1",
-                        "FontResource": {
-                          "Type": "Normal",
-                          "Path": "ui/resources/fonts/FZCY.ttf",
-                          "Plist": ""
-                        },
-                        "OutlineColor": {},
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 102.0,
-                          "Y": 42.5
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 40,
-                          "G": 65,
-                          "B": 91
-                        },
-                        "IconVisible": false,
-                        "PositionPercentXEnabled": true,
-                        "PositionPercentYEnabled": true,
-                        "PrePosition": {
-                          "X": 0.5,
-                          "Y": 0.5
-                        },
-                        "PreSize": {
-                          "X": 0.1078,
-                          "Y": 0.7882
-                        },
-                        "LeftMargin": 91.0,
-                        "RightMargin": 91.0,
-                        "TopMargin": 9.0,
-                        "BottomMargin": 9.0,
-                        "Tag": 370,
-                        "ActionTag": 1838894312,
-                        "Size": {
-                          "X": 22.0,
-                          "Y": 67.0
-                        },
-                        "Name": "text",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
                     "ActionTag": -1488550399,
                     "Size": {
-                      "X": 204.0,
-                      "Y": 85.0
+                      "X": 190.0,
+                      "Y": 90.0
                     },
                     "Name": "1",
                     "ctype": "SpriteObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 149.0,
-                      "Y": 464.0
+                      "X": 144.1116,
+                      "Y": 472.0
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.2096,
-                      "Y": 0.7484
+                      "X": 0.2027,
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 119.0,
-                    "RightMargin": 532.0,
+                    "LeftMargin": 130.6116,
+                    "RightMargin": 553.3884,
                     "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 99,
-                    "ActionTag": -348039828,
+                    "BottomMargin": 445.0,
+                    "Tag": 160,
+                    "ActionTag": -307432732,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_1",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 229.0,
-                      "Y": 464.0
+                      "X": 220.1002,
+                      "Y": 472.0
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3221,
-                      "Y": 0.7484
+                      "X": 0.3096,
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 199.0,
-                    "RightMargin": 452.0,
+                    "LeftMargin": 206.6002,
+                    "RightMargin": 477.3998,
                     "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 104,
-                    "ActionTag": 1442318094,
+                    "BottomMargin": 445.0,
+                    "Tag": 161,
+                    "ActionTag": 64464781,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_2",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 309.0,
-                      "Y": 464.0
+                      "X": 309.0278,
+                      "Y": 472.0
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4346,
-                      "Y": 0.7484
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 279.0,
-                    "RightMargin": 372.0,
+                    "LeftMargin": 295.5278,
+                    "RightMargin": 388.4722,
                     "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 103,
-                    "ActionTag": 649467764,
+                    "BottomMargin": 445.0,
+                    "Tag": 162,
+                    "ActionTag": 1929989335,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_3",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 389.0,
-                      "Y": 464.0
+                      "X": 396.722,
+                      "Y": 472.0
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5471,
-                      "Y": 0.7484
+                      "X": 0.558,
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 359.0,
-                    "RightMargin": 292.0,
+                    "LeftMargin": 383.222,
+                    "RightMargin": 300.778,
                     "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 102,
-                    "ActionTag": -1392865285,
+                    "BottomMargin": 445.0,
+                    "Tag": 163,
+                    "ActionTag": 1657591840,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_4",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 469.0,
-                      "Y": 464.0
+                      "X": 485.6491,
+                      "Y": 472.0
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6596,
-                      "Y": 0.7484
+                      "X": 0.6831,
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 439.0,
-                    "RightMargin": 212.0,
+                    "LeftMargin": 472.1491,
+                    "RightMargin": 211.8509,
                     "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 101,
-                    "ActionTag": -1509927816,
+                    "BottomMargin": 445.0,
+                    "Tag": 164,
+                    "ActionTag": 1946029612,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_5",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
-                    "CharWidth": 60,
-                    "CharHeight": 70,
+                    "FontSize": 48,
                     "LabelText": "8",
-                    "StartChar": ".",
-                    "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "ui/resources/fonts/join_room_num.png",
-                      "Plist": ""
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 549.0,
-                      "Y": 464.0
+                      "X": 567.9069,
+                      "Y": 471.9991
                     },
                     "Scale": {
-                      "ScaleX": 0.75,
-                      "ScaleY": 0.75
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.7722,
-                      "Y": 0.7484
+                      "X": 0.7987,
+                      "Y": 0.7613
                     },
                     "PreSize": {
-                      "X": 0.0844,
-                      "Y": 0.1129
+                      "X": 0.038,
+                      "Y": 0.0871
                     },
-                    "LeftMargin": 519.0,
-                    "RightMargin": 132.0,
-                    "TopMargin": 121.0,
-                    "BottomMargin": 429.0,
-                    "Tag": 100,
-                    "ActionTag": -244535965,
+                    "LeftMargin": 554.4069,
+                    "RightMargin": 129.5931,
+                    "TopMargin": 121.0009,
+                    "BottomMargin": 444.9991,
+                    "Tag": 165,
+                    "ActionTag": -1225444665,
                     "Size": {
-                      "X": 60.0,
-                      "Y": 70.0
+                      "X": 27.0,
+                      "Y": 54.0
                     },
                     "Name": "Text_6",
-                    "ctype": "TextAtlasObjectData"
+                    "ctype": "TextObjectData"
                   },
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "ui/resources/button/tips_x.png",
+                      "Path": "ui/resources/button/ncha.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -1656,8 +971,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 642.0,
-                      "Y": 555.0
+                      "X": 683.8965,
+                      "Y": 543.5709
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1666,22 +981,22 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.903,
-                      "Y": 0.8952
+                      "X": 0.9619,
+                      "Y": 0.8767
                     },
                     "PreSize": {
                       "X": 0.0985,
                       "Y": 0.1129
                     },
-                    "LeftMargin": 607.0,
-                    "RightMargin": 34.0,
-                    "TopMargin": 30.0,
-                    "BottomMargin": 520.0,
+                    "LeftMargin": 637.8965,
+                    "RightMargin": -18.8965,
+                    "TopMargin": 26.4291,
+                    "BottomMargin": 493.5709,
                     "Tag": 54,
                     "ActionTag": -450972190,
                     "Size": {
-                      "X": 70.0,
-                      "Y": 70.0
+                      "X": 92.0,
+                      "Y": 100.0
                     },
                     "Name": "btn_close",
                     "ctype": "SpriteObjectData"
@@ -1713,19 +1028,20 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "resources/bg/join_shang.png",
-        "resources/bg/join_xia.png",
-        "resources/bg/join_you.png",
-        "resources/bg/join_youshang.png",
+        "resources/bg/join_0.png",
+        "resources/bg/join_1.png",
+        "resources/bg/join_2.png",
+        "resources/bg/join_3.png",
+        "resources/bg/join_4.png",
+        "resources/bg/join_5.png",
+        "resources/bg/join_6.png",
+        "resources/bg/join_7.png",
+        "resources/bg/join_8.png",
+        "resources/bg/join_9.png",
         "resources/bg/join_youxia.png",
-        "resources/bg/join_zhong.png",
-        "resources/bg/join_zuo.png",
-        "resources/bg/join_zuoshang.png",
         "resources/bg/join_zuoxia.png",
         "resources/bg/mainBg6.png",
-        "resources/button/tips_x.png",
-        "resources/fonts/FZCY.ttf",
-        "resources/fonts/join_room_num.png"
+        "resources/button/ncha.png"
       ],
       "ctype": "GameFileData"
     }

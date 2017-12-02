@@ -46,8 +46,8 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": -284.0,
-            "RightMargin": -284.0,
+            "LeftMargin": -565.0,
+            "RightMargin": -565.0,
             "TopMargin": -150.5,
             "BottomMargin": -150.5,
             "Tag": 164,
@@ -57,7 +57,7 @@
                 "LabelText": "No.888",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Center",
@@ -78,7 +78,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 120.0,
+                  "X": 300.0,
                   "Y": 270.0
                 },
                 "Scale": {
@@ -92,15 +92,15 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.2113,
+                  "X": 0.2655,
                   "Y": 0.897
                 },
                 "PreSize": {
-                  "X": 0.2306,
+                  "X": 0.1159,
                   "Y": 0.1495
                 },
-                "LeftMargin": 54.5,
-                "RightMargin": 382.5,
+                "LeftMargin": 234.5,
+                "RightMargin": 764.5,
                 "TopMargin": 8.5,
                 "BottomMargin": 247.5,
                 "Tag": 165,
@@ -114,10 +114,10 @@
               },
               {
                 "FontSize": 40,
-                "LabelText": "88-88 88:88",
+                "LabelText": "8888-88-88 88:88_",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Center",
@@ -138,7 +138,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 330.0,
+                  "X": 800.0,
                   "Y": 270.0
                 },
                 "Scale": {
@@ -152,21 +152,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.581,
+                  "X": 0.708,
                   "Y": 0.897
                 },
                 "PreSize": {
-                  "X": 0.4085,
+                  "X": 0.3283,
                   "Y": 0.1495
                 },
-                "LeftMargin": 214.0,
-                "RightMargin": 122.0,
+                "LeftMargin": 614.5,
+                "RightMargin": 144.5,
                 "TopMargin": 8.5,
                 "BottomMargin": 247.5,
                 "Tag": 166,
                 "ActionTag": -447697282,
                 "Size": {
-                  "X": 232.0,
+                  "X": 371.0,
                   "Y": 45.0
                 },
                 "Name": "lb_time",
@@ -187,27 +187,27 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 511.0,
-                  "Y": 274.0
+                  "X": 911.0,
+                  "Y": 67.0
                 },
                 "Scale": {
-                  "ScaleX": 0.7,
-                  "ScaleY": 0.7
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
                 },
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.8996,
-                  "Y": 0.9103
+                  "X": 0.8062,
+                  "Y": 0.2226
                 },
                 "PreSize": {
-                  "X": 0.2518,
+                  "X": 0.1265,
                   "Y": 0.2658
                 },
-                "LeftMargin": 439.5,
-                "RightMargin": -14.5,
-                "TopMargin": -13.0,
-                "BottomMargin": 234.0,
+                "LeftMargin": 839.5,
+                "RightMargin": 147.5,
+                "TopMargin": 194.0,
+                "BottomMargin": 27.0,
                 "Tag": 167,
                 "ActionTag": -1732644025,
                 "Size": {
@@ -219,10 +219,10 @@
               },
               {
                 "FontSize": 28,
-                "LabelText": "用户名字六个",
+                "LabelText": "用户名字六个_",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "VerticalAlignmentType": "VT_Center",
@@ -244,7 +244,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 15.0,
+                  "X": 82.0,
                   "Y": 218.0
                 },
                 "Scale": {
@@ -257,21 +257,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.0264,
+                  "X": 0.0726,
                   "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.3028,
+                  "X": 0.1664,
                   "Y": 0.1163
                 },
-                "LeftMargin": 15.0,
-                "RightMargin": 381.0,
+                "LeftMargin": 82.0,
+                "RightMargin": 860.0,
                 "TopMargin": 65.5,
                 "BottomMargin": 200.5,
                 "Tag": 168,
                 "ActionTag": 1811808737,
                 "Size": {
-                  "X": 172.0,
+                  "X": 188.0,
                   "Y": 35.0
                 },
                 "Name": "lb_nickname1",
@@ -279,10 +279,10 @@
               },
               {
                 "FontSize": 28,
-                "LabelText": "用户名字六个",
+                "LabelText": "用户名字六个_",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "VerticalAlignmentType": "VT_Center",
@@ -304,7 +304,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 299.0,
+                  "X": 428.0,
                   "Y": 218.0
                 },
                 "Scale": {
@@ -317,21 +317,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5264,
+                  "X": 0.3788,
                   "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.3028,
+                  "X": 0.1664,
                   "Y": 0.1163
                 },
-                "LeftMargin": 299.0,
-                "RightMargin": 97.0,
+                "LeftMargin": 428.0,
+                "RightMargin": 514.0,
                 "TopMargin": 65.5,
                 "BottomMargin": 200.5,
                 "Tag": 169,
                 "ActionTag": 1711809951,
                 "Size": {
-                  "X": 172.0,
+                  "X": 188.0,
                   "Y": 35.0
                 },
                 "Name": "lb_nickname2",
@@ -339,10 +339,10 @@
               },
               {
                 "FontSize": 28,
-                "LabelText": "用户名字六个",
+                "LabelText": "用户名字六个_",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "VerticalAlignmentType": "VT_Center",
@@ -364,8 +364,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 15.0,
-                  "Y": 108.0
+                  "X": 774.0,
+                  "Y": 218.0
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -377,21 +377,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.0264,
-                  "Y": 0.3588
+                  "X": 0.685,
+                  "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.3028,
+                  "X": 0.1664,
                   "Y": 0.1163
                 },
-                "LeftMargin": 15.0,
-                "RightMargin": 381.0,
-                "TopMargin": 175.5,
-                "BottomMargin": 90.5,
+                "LeftMargin": 774.0,
+                "RightMargin": 168.0,
+                "TopMargin": 65.5,
+                "BottomMargin": 200.5,
                 "Tag": 170,
                 "ActionTag": -551831868,
                 "Size": {
-                  "X": 172.0,
+                  "X": 188.0,
                   "Y": 35.0
                 },
                 "Name": "lb_nickname3",
@@ -399,10 +399,10 @@
               },
               {
                 "FontSize": 28,
-                "LabelText": "用户名字六个",
+                "LabelText": "用户名字六个_",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "VerticalAlignmentType": "VT_Center",
@@ -424,7 +424,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 299.0,
+                  "X": 82.0,
                   "Y": 108.0
                 },
                 "Scale": {
@@ -437,21 +437,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5264,
+                  "X": 0.0726,
                   "Y": 0.3588
                 },
                 "PreSize": {
-                  "X": 0.3028,
+                  "X": 0.1664,
                   "Y": 0.1163
                 },
-                "LeftMargin": 299.0,
-                "RightMargin": 97.0,
+                "LeftMargin": 82.0,
+                "RightMargin": 860.0,
                 "TopMargin": 175.5,
                 "BottomMargin": 90.5,
                 "Tag": 171,
                 "ActionTag": -151448765,
                 "Size": {
-                  "X": 172.0,
+                  "X": 188.0,
                   "Y": 35.0
                 },
                 "Name": "lb_nickname4",
@@ -459,10 +459,70 @@
               },
               {
                 "FontSize": 28,
+                "LabelText": "用户名字六个_",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.0,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3788,
+                  "Y": 0.3588
+                },
+                "PreSize": {
+                  "X": 0.1664,
+                  "Y": 0.1163
+                },
+                "LeftMargin": 428.0,
+                "RightMargin": 514.0,
+                "TopMargin": 175.5,
+                "BottomMargin": 90.5,
+                "Tag": 681,
+                "ActionTag": -1852405905,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
                 "LabelText": "+888",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Right",
@@ -486,7 +546,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 265.0,
+                  "X": 356.0,
                   "Y": 218.0
                 },
                 "Scale": {
@@ -500,15 +560,15 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.4665,
+                  "X": 0.315,
                   "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.1215,
+                  "X": 0.0611,
                   "Y": 0.1163
                 },
-                "LeftMargin": 196.0,
-                "RightMargin": 303.0,
+                "LeftMargin": 287.0,
+                "RightMargin": 774.0,
                 "TopMargin": 65.5,
                 "BottomMargin": 200.5,
                 "Tag": 172,
@@ -525,7 +585,7 @@
                 "LabelText": "+888",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Right",
@@ -549,7 +609,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 549.0,
+                  "X": 702.0,
                   "Y": 218.0
                 },
                 "Scale": {
@@ -563,15 +623,15 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.9665,
+                  "X": 0.6212,
                   "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.1215,
+                  "X": 0.0611,
                   "Y": 0.1163
                 },
-                "LeftMargin": 480.0,
-                "RightMargin": 19.0,
+                "LeftMargin": 633.0,
+                "RightMargin": 428.0,
                 "TopMargin": 65.5,
                 "BottomMargin": 200.5,
                 "Tag": 173,
@@ -588,7 +648,7 @@
                 "LabelText": "+888",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Right",
@@ -612,8 +672,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 265.0,
-                  "Y": 108.0
+                  "X": 1048.0,
+                  "Y": 218.0
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -626,17 +686,17 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.4665,
-                  "Y": 0.3588
+                  "X": 0.9274,
+                  "Y": 0.7243
                 },
                 "PreSize": {
-                  "X": 0.1215,
+                  "X": 0.0611,
                   "Y": 0.1163
                 },
-                "LeftMargin": 196.0,
-                "RightMargin": 303.0,
-                "TopMargin": 175.5,
-                "BottomMargin": 90.5,
+                "LeftMargin": 979.0,
+                "RightMargin": 82.0,
+                "TopMargin": 65.5,
+                "BottomMargin": 200.5,
                 "Tag": 174,
                 "ActionTag": -1436686549,
                 "Size": {
@@ -651,7 +711,7 @@
                 "LabelText": "+888",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "HorizontalAlignmentType": "HT_Right",
@@ -675,7 +735,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 549.0,
+                  "X": 356.0,
                   "Y": 108.0
                 },
                 "Scale": {
@@ -689,15 +749,15 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.9665,
+                  "X": 0.315,
                   "Y": 0.3588
                 },
                 "PreSize": {
-                  "X": 0.1215,
+                  "X": 0.0611,
                   "Y": 0.1163
                 },
-                "LeftMargin": 480.0,
-                "RightMargin": 19.0,
+                "LeftMargin": 287.0,
+                "RightMargin": 774.0,
                 "TopMargin": 175.5,
                 "BottomMargin": 90.5,
                 "Tag": 175,
@@ -707,6 +767,69 @@
                   "Y": 35.0
                 },
                 "Name": "lb_score4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "+888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 68,
+                  "B": 33
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 702.0,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 243,
+                  "G": 247,
+                  "B": 14
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6212,
+                  "Y": 0.3588
+                },
+                "PreSize": {
+                  "X": 0.0611,
+                  "Y": 0.1163
+                },
+                "LeftMargin": 633.0,
+                "RightMargin": 428.0,
+                "TopMargin": 175.5,
+                "BottomMargin": 90.5,
+                "Tag": 682,
+                "ActionTag": -1208927571,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_score5",
                 "ctype": "TextObjectData"
               },
               {
@@ -730,7 +853,7 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 41.0,
+                  "X": 107.0,
                   "Y": 163.0
                 },
                 "Scale": {
@@ -740,15 +863,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.0722,
+                  "X": 0.0947,
                   "Y": 0.5415
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 41.0,
-                "RightMargin": 527.0,
+                "LeftMargin": 107.0,
+                "RightMargin": 1023.0,
                 "TopMargin": 138.0,
                 "BottomMargin": 163.0,
                 "Tag": 176,
@@ -785,10 +908,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -75.5,
-                    "RightMargin": -75.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
+                    "LeftMargin": -71.0,
+                    "RightMargin": -71.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
                     "Tag": 177,
                     "Children": [
                       {
@@ -815,16 +938,16 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9577,
+                          "Y": 0.1563
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
                         "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": -20.0,
                         "BottomMargin": 30.0,
                         "Tag": 178,
                         "ActionTag": -846532277,
@@ -851,8 +974,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -861,22 +984,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
                         "Tag": 179,
                         "ActionTag": 1684178572,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -896,7 +1019,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -906,22 +1029,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
                         "Tag": 180,
                         "ActionTag": -79188313,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
@@ -929,8 +1052,8 @@
                     ],
                     "ActionTag": -1891945510,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a0",
                     "ctype": "SpriteObjectData"
@@ -950,7 +1073,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 141.0,
+                      "X": 160.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -967,10 +1090,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 65.5,
-                    "RightMargin": -216.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
+                    "LeftMargin": 89.0,
+                    "RightMargin": -231.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
                     "Tag": 181,
                     "Children": [
                       {
@@ -987,8 +1110,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -997,24 +1120,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
                         "Tag": 182,
                         "ActionTag": 1069019321,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1033,8 +1155,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1043,22 +1165,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
                         "Tag": 183,
                         "ActionTag": -1906371859,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -1078,7 +1200,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -1088,22 +1210,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
                         "Tag": 184,
                         "ActionTag": 1314998531,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
@@ -1111,8 +1233,8 @@
                     ],
                     "ActionTag": -501693738,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a1",
                     "ctype": "SpriteObjectData"
@@ -1132,7 +1254,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 282.0,
+                      "X": 320.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -1149,10 +1271,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 206.5,
-                    "RightMargin": -357.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
+                    "LeftMargin": 249.0,
+                    "RightMargin": -391.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
                     "Tag": 185,
                     "Children": [
                       {
@@ -1169,8 +1291,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -1179,24 +1301,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
                         "Tag": 186,
                         "ActionTag": 867949102,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1215,8 +1336,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1225,22 +1346,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
                         "Tag": 187,
                         "ActionTag": 1820340828,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -1260,7 +1381,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -1270,22 +1391,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
                         "Tag": 188,
                         "ActionTag": -212752696,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
@@ -1293,8 +1414,8 @@
                     ],
                     "ActionTag": 406784019,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a2",
                     "ctype": "SpriteObjectData"
@@ -1314,7 +1435,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 423.0,
+                      "X": 480.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -1331,10 +1452,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 347.5,
-                    "RightMargin": -498.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
+                    "LeftMargin": 409.0,
+                    "RightMargin": -551.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
                     "Tag": 189,
                     "Children": [
                       {
@@ -1351,8 +1472,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -1361,24 +1482,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
                         "Tag": 190,
                         "ActionTag": 871865870,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1397,8 +1517,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1407,22 +1527,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
                         "Tag": 191,
                         "ActionTag": 1948814039,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -1442,7 +1562,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -1452,22 +1572,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
                         "Tag": 192,
                         "ActionTag": 42648918,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
@@ -1475,8 +1595,8 @@
                     ],
                     "ActionTag": 458757144,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a3",
                     "ctype": "SpriteObjectData"
@@ -1496,7 +1616,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 564.0,
+                      "X": 640.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -1513,10 +1633,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 488.5,
-                    "RightMargin": -639.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
+                    "LeftMargin": 569.0,
+                    "RightMargin": -711.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
                     "Tag": 193,
                     "Children": [
                       {
@@ -1533,8 +1653,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -1543,24 +1663,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
                         "Tag": 194,
                         "ActionTag": 1368552522,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1579,8 +1698,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1589,22 +1708,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
                         "Tag": 195,
                         "ActionTag": 1193410654,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -1624,7 +1743,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -1634,22 +1753,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
                         "Tag": 196,
                         "ActionTag": -1530309297,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
@@ -1657,8 +1776,8 @@
                     ],
                     "ActionTag": 1008232343,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a4",
                     "ctype": "SpriteObjectData"
@@ -1693,7 +1812,7 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 325.0,
+                  "X": 453.0,
                   "Y": 163.0
                 },
                 "Scale": {
@@ -1703,18 +1822,18 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5722,
+                  "X": 0.4009,
                   "Y": 0.5415
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 325.0,
-                "RightMargin": 243.0,
+                "LeftMargin": 453.0,
+                "RightMargin": 677.0,
                 "TopMargin": 138.0,
                 "BottomMargin": 163.0,
-                "Tag": 197,
+                "Tag": 597,
                 "Children": [
                   {
                     "FileData": {
@@ -1748,11 +1867,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -75.5,
-                    "RightMargin": -75.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 198,
+                    "LeftMargin": -71.0,
+                    "RightMargin": -71.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 598,
                     "Children": [
                       {
                         "FileData": {
@@ -1768,8 +1887,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -1778,24 +1897,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 199,
-                        "ActionTag": -520607561,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 599,
+                        "ActionTag": 2116538616,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1814,8 +1932,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1824,22 +1942,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 200,
-                        "ActionTag": 2004109118,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 600,
+                        "ActionTag": 46911910,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -1859,7 +1977,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -1869,31 +1987,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 201,
-                        "ActionTag": 573410799,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 601,
+                        "ActionTag": 1998658701,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -1551435266,
+                    "ActionTag": -280548672,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a0",
                     "ctype": "SpriteObjectData"
@@ -1913,7 +2031,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 141.0,
+                      "X": 160.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -1930,11 +2048,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 65.5,
-                    "RightMargin": -216.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 202,
+                    "LeftMargin": 89.0,
+                    "RightMargin": -231.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 602,
                     "Children": [
                       {
                         "FileData": {
@@ -1950,8 +2068,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -1960,24 +2078,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 203,
-                        "ActionTag": -870461856,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 603,
+                        "ActionTag": -1832090816,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -1996,8 +2113,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2006,22 +2123,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 204,
-                        "ActionTag": -1615354306,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 604,
+                        "ActionTag": -186435933,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -2041,7 +2158,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -2051,31 +2168,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 205,
-                        "ActionTag": 654100124,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 605,
+                        "ActionTag": -1675445188,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": 1522116139,
+                    "ActionTag": -1284695819,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a1",
                     "ctype": "SpriteObjectData"
@@ -2095,7 +2212,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 282.0,
+                      "X": 320.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -2112,11 +2229,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 206.5,
-                    "RightMargin": -357.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 206,
+                    "LeftMargin": 249.0,
+                    "RightMargin": -391.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 606,
                     "Children": [
                       {
                         "FileData": {
@@ -2132,8 +2249,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -2142,24 +2259,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 207,
-                        "ActionTag": 437678212,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 607,
+                        "ActionTag": 1541098768,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -2178,8 +2294,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2188,22 +2304,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 208,
-                        "ActionTag": 1478978860,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 608,
+                        "ActionTag": -431367277,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -2223,7 +2339,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -2233,31 +2349,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 209,
-                        "ActionTag": -1176783968,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 609,
+                        "ActionTag": 1864895940,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -1307733884,
+                    "ActionTag": 575277559,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a2",
                     "ctype": "SpriteObjectData"
@@ -2277,7 +2393,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 423.0,
+                      "X": 480.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -2294,11 +2410,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 347.5,
-                    "RightMargin": -498.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 210,
+                    "LeftMargin": 409.0,
+                    "RightMargin": -551.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 610,
                     "Children": [
                       {
                         "FileData": {
@@ -2314,8 +2430,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -2324,24 +2440,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 211,
-                        "ActionTag": 1616930456,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 611,
+                        "ActionTag": 830977322,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -2360,8 +2475,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2370,22 +2485,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 212,
-                        "ActionTag": -648580510,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 612,
+                        "ActionTag": 352977777,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -2405,7 +2520,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -2415,31 +2530,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 213,
-                        "ActionTag": -749088657,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 613,
+                        "ActionTag": 1404071948,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -180115882,
+                    "ActionTag": 14505626,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a3",
                     "ctype": "SpriteObjectData"
@@ -2459,7 +2574,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 564.0,
+                      "X": 640.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -2476,11 +2591,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 488.5,
-                    "RightMargin": -639.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 214,
+                    "LeftMargin": 569.0,
+                    "RightMargin": -711.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 614,
                     "Children": [
                       {
                         "FileData": {
@@ -2496,8 +2611,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -2506,24 +2621,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 215,
-                        "ActionTag": -1866160280,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 615,
+                        "ActionTag": 703831774,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -2542,8 +2656,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2552,22 +2666,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 216,
-                        "ActionTag": 507758990,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 616,
+                        "ActionTag": 1142082335,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -2587,7 +2701,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -2597,37 +2711,37 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 217,
-                        "ActionTag": 503718496,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 617,
+                        "ActionTag": 1234601853,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -1942743998,
+                    "ActionTag": -1678399101,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a4",
                     "ctype": "SpriteObjectData"
                   }
                 ],
-                "ActionTag": 1704333974,
+                "ActionTag": 2000601188,
                 "Size": {
                   "X": 0.0,
                   "Y": 0.0
@@ -2656,8 +2770,8 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 41.0,
-                  "Y": 53.0
+                  "X": 799.0,
+                  "Y": 163.0
                 },
                 "Scale": {
                   "ScaleX": 0.35,
@@ -2666,18 +2780,18 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.0722,
-                  "Y": 0.1761
+                  "X": 0.7071,
+                  "Y": 0.5415
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 41.0,
-                "RightMargin": 527.0,
-                "TopMargin": 248.0,
-                "BottomMargin": 53.0,
-                "Tag": 218,
+                "LeftMargin": 799.0,
+                "RightMargin": 331.0,
+                "TopMargin": 138.0,
+                "BottomMargin": 163.0,
+                "Tag": 618,
                 "Children": [
                   {
                     "FileData": {
@@ -2711,11 +2825,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -75.5,
-                    "RightMargin": -75.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 219,
+                    "LeftMargin": -71.0,
+                    "RightMargin": -71.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 619,
                     "Children": [
                       {
                         "FileData": {
@@ -2731,8 +2845,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -2741,24 +2855,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 220,
-                        "ActionTag": 1246015894,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 620,
+                        "ActionTag": 1464783694,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -2777,8 +2890,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2787,22 +2900,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 221,
-                        "ActionTag": -2047613195,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 621,
+                        "ActionTag": -1115243955,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -2822,7 +2935,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 38.0,
+                          "X": 30.0,
                           "Y": 110.0
                         },
                         "Scale": {
@@ -2832,31 +2945,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2113,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 222,
-                        "ActionTag": 1360526571,
+                        "LeftMargin": -4.5,
+                        "RightMargin": 77.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 622,
+                        "ActionTag": 1049093021,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -2118808191,
+                    "ActionTag": -1603757278,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a0",
                     "ctype": "SpriteObjectData"
@@ -2876,7 +2989,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 141.0,
+                      "X": 160.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -2893,11 +3006,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 65.5,
-                    "RightMargin": -216.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 223,
+                    "LeftMargin": 89.0,
+                    "RightMargin": -231.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 623,
                     "Children": [
                       {
                         "FileData": {
@@ -2913,8 +3026,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -2923,24 +3036,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 224,
-                        "ActionTag": -1076725873,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 624,
+                        "ActionTag": 309556065,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -2959,8 +3071,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2969,22 +3081,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 225,
-                        "ActionTag": 1992294908,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 625,
+                        "ActionTag": 1228384309,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3014,31 +3126,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 226,
-                        "ActionTag": 1246307002,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 626,
+                        "ActionTag": 1598119645,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -801289292,
+                    "ActionTag": -1046237558,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a1",
                     "ctype": "SpriteObjectData"
@@ -3058,7 +3170,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 282.0,
+                      "X": 320.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -3075,11 +3187,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 206.5,
-                    "RightMargin": -357.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 227,
+                    "LeftMargin": 249.0,
+                    "RightMargin": -391.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 627,
                     "Children": [
                       {
                         "FileData": {
@@ -3095,8 +3207,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -3105,24 +3217,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 228,
-                        "ActionTag": -1763020871,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 628,
+                        "ActionTag": -1666424675,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -3141,8 +3252,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -3151,22 +3262,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 229,
-                        "ActionTag": -1032691161,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 629,
+                        "ActionTag": 1174269641,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3196,31 +3307,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 230,
-                        "ActionTag": -1900435658,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 630,
+                        "ActionTag": -1097926264,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -95867390,
+                    "ActionTag": -932387055,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a2",
                     "ctype": "SpriteObjectData"
@@ -3240,7 +3351,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 423.0,
+                      "X": 480.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -3257,11 +3368,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 347.5,
-                    "RightMargin": -498.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 231,
+                    "LeftMargin": 409.0,
+                    "RightMargin": -551.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 631,
                     "Children": [
                       {
                         "FileData": {
@@ -3277,8 +3388,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -3287,24 +3398,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 232,
-                        "ActionTag": -996595685,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 632,
+                        "ActionTag": 1959281620,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -3323,8 +3433,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -3333,22 +3443,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 233,
-                        "ActionTag": 23048486,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 633,
+                        "ActionTag": 853816935,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3378,31 +3488,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 234,
-                        "ActionTag": 1387924934,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 634,
+                        "ActionTag": 824306952,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": 1603107448,
+                    "ActionTag": -920693053,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a3",
                     "ctype": "SpriteObjectData"
@@ -3422,7 +3532,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 564.0,
+                      "X": 640.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -3439,11 +3549,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 488.5,
-                    "RightMargin": -639.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 235,
+                    "LeftMargin": 569.0,
+                    "RightMargin": -711.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 635,
                     "Children": [
                       {
                         "FileData": {
@@ -3459,8 +3569,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -3469,24 +3579,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 236,
-                        "ActionTag": -2050022979,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 636,
+                        "ActionTag": -1498041919,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -3505,8 +3614,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -3515,22 +3624,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 237,
-                        "ActionTag": 1787146915,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 637,
+                        "ActionTag": 1087839850,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3560,37 +3669,37 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 238,
-                        "ActionTag": -1642024822,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 638,
+                        "ActionTag": 866377739,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -480238741,
+                    "ActionTag": -353890652,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a4",
                     "ctype": "SpriteObjectData"
                   }
                 ],
-                "ActionTag": 1951393119,
+                "ActionTag": 1985121795,
                 "Size": {
                   "X": 0.0,
                   "Y": 0.0
@@ -3619,7 +3728,7 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 325.0,
+                  "X": 107.0,
                   "Y": 53.0
                 },
                 "Scale": {
@@ -3629,18 +3738,18 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5722,
+                  "X": 0.0947,
                   "Y": 0.1761
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 325.0,
-                "RightMargin": 243.0,
+                "LeftMargin": 107.0,
+                "RightMargin": 1023.0,
                 "TopMargin": 248.0,
                 "BottomMargin": 53.0,
-                "Tag": 239,
+                "Tag": 639,
                 "Children": [
                   {
                     "FileData": {
@@ -3674,11 +3783,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -75.5,
-                    "RightMargin": -75.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 240,
+                    "LeftMargin": -71.0,
+                    "RightMargin": -71.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 640,
                     "Children": [
                       {
                         "FileData": {
@@ -3694,8 +3803,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -3704,24 +3813,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 241,
-                        "ActionTag": -1677114395,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 641,
+                        "ActionTag": -1989584086,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -3740,8 +3848,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -3750,22 +3858,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 242,
-                        "ActionTag": -93922708,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 642,
+                        "ActionTag": -1263289060,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3795,31 +3903,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 243,
-                        "ActionTag": -230378426,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 643,
+                        "ActionTag": 51206445,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -1357674043,
+                    "ActionTag": -1805892280,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a0",
                     "ctype": "SpriteObjectData"
@@ -3839,7 +3947,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 141.0,
+                      "X": 160.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -3856,11 +3964,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 65.5,
-                    "RightMargin": -216.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 244,
+                    "LeftMargin": 89.0,
+                    "RightMargin": -231.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 644,
                     "Children": [
                       {
                         "FileData": {
@@ -3876,8 +3984,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -3886,24 +3994,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 245,
-                        "ActionTag": 1212214711,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 645,
+                        "ActionTag": 142757221,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -3922,8 +4029,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -3932,22 +4039,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 246,
-                        "ActionTag": 1726859844,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 646,
+                        "ActionTag": -1283580375,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -3977,31 +4084,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 247,
-                        "ActionTag": -1048093920,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 647,
+                        "ActionTag": -1212256638,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -2000462722,
+                    "ActionTag": -197049941,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a1",
                     "ctype": "SpriteObjectData"
@@ -4021,7 +4128,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 282.0,
+                      "X": 320.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -4038,11 +4145,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 206.5,
-                    "RightMargin": -357.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 248,
+                    "LeftMargin": 249.0,
+                    "RightMargin": -391.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 648,
                     "Children": [
                       {
                         "FileData": {
@@ -4058,8 +4165,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -4068,24 +4175,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 249,
-                        "ActionTag": -1358919653,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 649,
+                        "ActionTag": -710283647,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -4104,8 +4210,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -4114,22 +4220,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 250,
-                        "ActionTag": 810559634,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 650,
+                        "ActionTag": 2108168738,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -4159,31 +4265,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 251,
-                        "ActionTag": 688839649,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 651,
+                        "ActionTag": 484190632,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": 1037217798,
+                    "ActionTag": 1797666525,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a2",
                     "ctype": "SpriteObjectData"
@@ -4203,7 +4309,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 423.0,
+                      "X": 480.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -4220,11 +4326,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 347.5,
-                    "RightMargin": -498.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 252,
+                    "LeftMargin": 409.0,
+                    "RightMargin": -551.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 652,
                     "Children": [
                       {
                         "FileData": {
@@ -4240,8 +4346,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -4250,24 +4356,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 253,
-                        "ActionTag": -1389987518,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 653,
+                        "ActionTag": -1992102532,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -4286,8 +4391,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -4296,22 +4401,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 254,
-                        "ActionTag": -443747187,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 654,
+                        "ActionTag": 1139967736,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -4341,31 +4446,31 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 255,
-                        "ActionTag": -1402438087,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 655,
+                        "ActionTag": -1970659693,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": 1451570243,
+                    "ActionTag": 1023941587,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a3",
                     "ctype": "SpriteObjectData"
@@ -4385,7 +4490,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 564.0,
+                      "X": 640.0,
                       "Y": 0.0
                     },
                     "Scale": {
@@ -4402,11 +4507,11 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 488.5,
-                    "RightMargin": -639.5,
-                    "TopMargin": -104.5,
-                    "BottomMargin": -104.5,
-                    "Tag": 256,
+                    "LeftMargin": 569.0,
+                    "RightMargin": -711.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 656,
                     "Children": [
                       {
                         "FileData": {
@@ -4422,8 +4527,8 @@
                           "ScaleX": 1.0
                         },
                         "Position": {
-                          "X": 136.0,
-                          "Y": 30.0
+                          "X": 130.0,
+                          "Y": 15.0
                         },
                         "Scale": {
                           "ScaleX": 0.75,
@@ -4432,24 +4537,23 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.9007,
-                          "Y": 0.1435
+                          "X": 0.9155,
+                          "Y": 0.0781
                         },
                         "PreSize": {
-                          "X": 0.9669,
-                          "Y": 0.8708
+                          "X": 1.0282,
+                          "Y": 0.9479
                         },
-                        "LeftMargin": -10.0,
-                        "RightMargin": 15.0,
-                        "TopMargin": -3.0,
-                        "BottomMargin": 30.0,
-                        "Tag": 257,
-                        "ActionTag": 1824926141,
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 657,
+                        "ActionTag": 1356821532,
                         "Size": {
                           "X": 146.0,
                           "Y": 182.0
                         },
-                        "VisibleForFrame": false,
                         "Name": "c",
                         "ctype": "SpriteObjectData"
                       },
@@ -4468,8 +4572,8 @@
                           "ScaleY": 1.0
                         },
                         "Position": {
-                          "X": 38.0,
-                          "Y": 190.0
+                          "X": 30.0,
+                          "Y": 180.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -4478,22 +4582,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.9091
+                          "X": 0.2113,
+                          "Y": 0.9375
                         },
                         "PreSize": {
-                          "X": 0.3311,
-                          "Y": 0.2488
+                          "X": 0.2324,
+                          "Y": 0.2448
                         },
-                        "LeftMargin": 13.0,
-                        "RightMargin": 88.0,
-                        "TopMargin": 19.0,
-                        "BottomMargin": 138.0,
-                        "Tag": 258,
-                        "ActionTag": 1576893877,
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 658,
+                        "ActionTag": -217361417,
                         "Size": {
-                          "X": 50.0,
-                          "Y": 52.0
+                          "X": 33.0,
+                          "Y": 47.0
                         },
                         "Name": "a",
                         "ctype": "SpriteObjectData"
@@ -4523,48 +4627,1006 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2517,
-                          "Y": 0.5263
+                          "X": 0.2676,
+                          "Y": 0.5729
                         },
                         "PreSize": {
-                          "X": 0.596,
-                          "Y": 0.4641
+                          "X": 0.4859,
+                          "Y": 0.3438
                         },
-                        "LeftMargin": -7.0,
-                        "RightMargin": 68.0,
-                        "TopMargin": 50.5,
-                        "BottomMargin": 61.5,
-                        "Tag": 259,
-                        "ActionTag": 1924049480,
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 659,
+                        "ActionTag": -1929879342,
                         "Size": {
-                          "X": 90.0,
-                          "Y": 97.0
+                          "X": 69.0,
+                          "Y": 66.0
                         },
                         "Name": "b",
                         "ctype": "SpriteObjectData"
                       }
                     ],
-                    "ActionTag": -143885333,
+                    "ActionTag": -681199704,
                     "Size": {
-                      "X": 151.0,
-                      "Y": 209.0
+                      "X": 142.0,
+                      "Y": 192.0
                     },
                     "Name": "a4",
                     "ctype": "SpriteObjectData"
                   }
                 ],
-                "ActionTag": 1514693238,
+                "ActionTag": -516483145,
                 "Size": {
                   "X": 0.0,
                   "Y": 0.0
                 },
                 "Name": "card4",
                 "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 453.0,
+                  "Y": 53.0
+                },
+                "Scale": {
+                  "ScaleX": 0.35,
+                  "ScaleY": 0.35
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4009,
+                  "Y": 0.1761
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 453.0,
+                "RightMargin": 677.0,
+                "TopMargin": 248.0,
+                "BottomMargin": 53.0,
+                "Tag": 660,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bg.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -71.0,
+                    "RightMargin": -71.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 661,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/card/k_2.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0
+                        },
+                        "Position": {
+                          "X": 130.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.75,
+                          "ScaleY": 0.75
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9155,
+                          "Y": 0.0781
+                        },
+                        "PreSize": {
+                          "X": 1.0282,
+                          "Y": 0.9479
+                        },
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 662,
+                        "ActionTag": 736234265,
+                        "Size": {
+                          "X": 146.0,
+                          "Y": 182.0
+                        },
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/red_1.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 180.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2113,
+                          "Y": 0.9375
+                        },
+                        "PreSize": {
+                          "X": 0.2324,
+                          "Y": 0.2448
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 663,
+                        "ActionTag": -1128808552,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 47.0
+                        },
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/bigtag_3.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 38.0,
+                          "Y": 110.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2676,
+                          "Y": 0.5729
+                        },
+                        "PreSize": {
+                          "X": 0.4859,
+                          "Y": 0.3438
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 664,
+                        "ActionTag": -1140220267,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 66.0
+                        },
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1641621903,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 192.0
+                    },
+                    "Name": "a0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bg.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 89.0,
+                    "RightMargin": -231.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 665,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/card/k_2.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0
+                        },
+                        "Position": {
+                          "X": 130.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.75,
+                          "ScaleY": 0.75
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9155,
+                          "Y": 0.0781
+                        },
+                        "PreSize": {
+                          "X": 1.0282,
+                          "Y": 0.9479
+                        },
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 666,
+                        "ActionTag": 626711152,
+                        "Size": {
+                          "X": 146.0,
+                          "Y": 182.0
+                        },
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/red_1.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 180.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2113,
+                          "Y": 0.9375
+                        },
+                        "PreSize": {
+                          "X": 0.2324,
+                          "Y": 0.2448
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 667,
+                        "ActionTag": 2031534956,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 47.0
+                        },
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/bigtag_3.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 38.0,
+                          "Y": 110.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2676,
+                          "Y": 0.5729
+                        },
+                        "PreSize": {
+                          "X": 0.4859,
+                          "Y": 0.3438
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 668,
+                        "ActionTag": 918522412,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 66.0
+                        },
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1125291341,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 192.0
+                    },
+                    "Name": "a1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bg.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 249.0,
+                    "RightMargin": -391.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 669,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/card/k_2.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0
+                        },
+                        "Position": {
+                          "X": 130.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.75,
+                          "ScaleY": 0.75
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9155,
+                          "Y": 0.0781
+                        },
+                        "PreSize": {
+                          "X": 1.0282,
+                          "Y": 0.9479
+                        },
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 670,
+                        "ActionTag": -1741070112,
+                        "Size": {
+                          "X": 146.0,
+                          "Y": 182.0
+                        },
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/red_1.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 180.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2113,
+                          "Y": 0.9375
+                        },
+                        "PreSize": {
+                          "X": 0.2324,
+                          "Y": 0.2448
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 671,
+                        "ActionTag": -280533169,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 47.0
+                        },
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/bigtag_3.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 38.0,
+                          "Y": 110.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2676,
+                          "Y": 0.5729
+                        },
+                        "PreSize": {
+                          "X": 0.4859,
+                          "Y": 0.3438
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 672,
+                        "ActionTag": 1012424546,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 66.0
+                        },
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 570452342,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 192.0
+                    },
+                    "Name": "a2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bg.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 480.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 409.0,
+                    "RightMargin": -551.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 673,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/card/k_2.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0
+                        },
+                        "Position": {
+                          "X": 130.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.75,
+                          "ScaleY": 0.75
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9155,
+                          "Y": 0.0781
+                        },
+                        "PreSize": {
+                          "X": 1.0282,
+                          "Y": 0.9479
+                        },
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 674,
+                        "ActionTag": 2146528108,
+                        "Size": {
+                          "X": 146.0,
+                          "Y": 182.0
+                        },
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/red_1.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 180.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2113,
+                          "Y": 0.9375
+                        },
+                        "PreSize": {
+                          "X": 0.2324,
+                          "Y": 0.2448
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 675,
+                        "ActionTag": -1651692289,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 47.0
+                        },
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/bigtag_3.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 38.0,
+                          "Y": 110.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2676,
+                          "Y": 0.5729
+                        },
+                        "PreSize": {
+                          "X": 0.4859,
+                          "Y": 0.3438
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 676,
+                        "ActionTag": -1458373248,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 66.0
+                        },
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -951836053,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 192.0
+                    },
+                    "Name": "a3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bg.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 569.0,
+                    "RightMargin": -711.0,
+                    "TopMargin": -96.0,
+                    "BottomMargin": -96.0,
+                    "Tag": 677,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/card/k_2.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0
+                        },
+                        "Position": {
+                          "X": 130.0,
+                          "Y": 15.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.75,
+                          "ScaleY": 0.75
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9155,
+                          "Y": 0.0781
+                        },
+                        "PreSize": {
+                          "X": 1.0282,
+                          "Y": 0.9479
+                        },
+                        "LeftMargin": -16.0,
+                        "RightMargin": 12.0,
+                        "TopMargin": -5.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 678,
+                        "ActionTag": 1192089678,
+                        "Size": {
+                          "X": 146.0,
+                          "Y": 182.0
+                        },
+                        "Name": "c",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/red_1.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 30.0,
+                          "Y": 180.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2113,
+                          "Y": 0.9375
+                        },
+                        "PreSize": {
+                          "X": 0.2324,
+                          "Y": 0.2448
+                        },
+                        "LeftMargin": 13.5,
+                        "RightMargin": 95.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 133.0,
+                        "Tag": 679,
+                        "ActionTag": 1263095586,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 47.0
+                        },
+                        "Name": "a",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "b/bigtag_3.png",
+                          "Plist": "ui/resources/card/poker_b.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 38.0,
+                          "Y": 110.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.4,
+                          "ScaleY": 0.4
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2676,
+                          "Y": 0.5729
+                        },
+                        "PreSize": {
+                          "X": 0.4859,
+                          "Y": 0.3438
+                        },
+                        "LeftMargin": 3.5,
+                        "RightMargin": 69.5,
+                        "TopMargin": 49.0,
+                        "BottomMargin": 77.0,
+                        "Tag": 680,
+                        "ActionTag": 1916083533,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 66.0
+                        },
+                        "Name": "b",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 79405623,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 192.0
+                    },
+                    "Name": "a4",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 195403814,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "card5",
+                "ctype": "PanelObjectData"
               }
             ],
             "ActionTag": 1102476855,
             "Size": {
-              "X": 568.0,
+              "X": 1130.0,
               "Y": 301.0
             },
             "Name": "row",
@@ -4583,8 +5645,7 @@
         "resources/button/button_zjfx.png",
         "resources/card/k_2.png",
         "resources/card/poker_b.plist",
-        "resources/card/poker_b.png",
-        "resources/fonts/FZCY.ttf"
+        "resources/card/poker_b.png"
       ],
       "ctype": "GameFileData"
     }

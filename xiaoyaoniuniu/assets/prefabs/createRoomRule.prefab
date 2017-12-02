@@ -31,20 +31,23 @@
       },
       {
         "__id__": 202
+      },
+      {
+        "__id__": 210
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 210
+        "__id__": 213
       },
       {
-        "__id__": 211
+        "__id__": 214
       }
     ],
     "_prefab": {
-      "__id__": 212
+      "__id__": 215
     },
     "_id": "",
     "_opacity": 255,
@@ -1361,7 +1364,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "count_10",
     "_objFlags": 0,
     "_parent": {
       "__id__": 36
@@ -1683,7 +1686,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "count_20",
     "_objFlags": 0,
     "_parent": {
       "__id__": 36
@@ -2194,7 +2197,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "gamechoose",
+    "_name": "bankerchoose",
     "_objFlags": 0,
     "_parent": {
       "__id__": 17
@@ -2438,7 +2441,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "linebanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -2760,7 +2763,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "turnbanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -2919,7 +2922,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 88
@@ -3057,7 +3060,7 @@
       "__id__": 88
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -3072,7 +3075,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle3",
+    "_name": "kingbanker",
     "_objFlags": 0,
     "_parent": {
       "__id__": 66
@@ -3456,7 +3459,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "rate_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 102
@@ -3868,7 +3871,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "rate_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 102
@@ -4117,7 +4120,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 124
@@ -4255,7 +4258,7 @@
       "__id__": 124
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -4342,7 +4345,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle1",
+    "_name": "special_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 129
@@ -4754,7 +4757,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle2",
+    "_name": "special_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 129
@@ -5003,7 +5006,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 151
@@ -5141,7 +5144,7 @@
       "__id__": 151
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -5712,7 +5715,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle4",
+    "_name": "lock_card_all",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6034,7 +6037,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle5",
+    "_name": "lock_card_1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6193,7 +6196,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 187
@@ -6331,7 +6334,7 @@
       "__id__": 187
     },
     "checkEvents": [],
-    "_N$isChecked": false
+    "_N$isChecked": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -6346,7 +6349,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "toggle6",
+    "_name": "lock_card_2",
     "_objFlags": 0,
     "_parent": {
       "__id__": 171
@@ -6927,6 +6930,97 @@
     "sync": false
   },
   {
+    "__type__": "cc.Node",
+    "_name": "btn_daikai2",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 211
+      }
+    ],
+    "_prefab": {
+      "__id__": 212
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 174,
+      "height": 75
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 188,
+      "y": -268
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 210
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "acbbd1a1-19c4-407a-b2f7-8ee341aa9e7c"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "872a218c-bfdf-423d-8339-06176336025e"
+    },
+    "fileId": "ddJMDjIhhNJaDdWMy+WfEK",
+    "sync": false
+  },
+  {
     "__type__": "cc.Button",
     "_name": "",
     "_objFlags": 0,
@@ -6983,7 +7077,22 @@
     "node": {
       "__id__": 1
     },
-    "_enabled": true
+    "_enabled": true,
+    "gameCountChoose": {
+      "__id__": 48
+    },
+    "bankerChoose": {
+      "__id__": 81
+    },
+    "lockCardChoose": {
+      "__id__": 180
+    },
+    "rateChoose": {
+      "__id__": 114
+    },
+    "specialChoose": {
+      "__id__": 141
+    }
   },
   {
     "__type__": "cc.PrefabInfo",

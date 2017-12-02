@@ -133,10 +133,12 @@
               "Y": 1.0
             },
             "PreSize": {
-              "X": 1.0,
-              "Y": 0.1208
+              "X": 0.0359,
+              "Y": 0.0639
             },
-            "BottomMargin": 633.0,
+            "LeftMargin": 617.0,
+            "RightMargin": 617.0,
+            "BottomMargin": 674.0,
             "Tag": 203,
             "ActionTag": 1564159987,
             "Size": {
@@ -332,7 +334,7 @@
           {
             "IsBounceEnabled": true,
             "InnerNodeSize": {
-              "Width": 1160,
+              "Width": 1130,
               "Height": 598
             },
             "ScrollDirectionType": "Vertical",
@@ -355,7 +357,7 @@
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
-              "X": 59.9998,
+              "X": 75.0,
               "Y": 45.0
             },
             "Scale": {
@@ -365,21 +367,21 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0469,
+              "X": 0.0586,
               "Y": 0.0625
             },
             "PreSize": {
-              "X": 0.9063,
+              "X": 0.8828,
               "Y": 0.7569
             },
-            "LeftMargin": 59.9998,
-            "RightMargin": 60.0002,
+            "LeftMargin": 75.0,
+            "RightMargin": 75.0,
             "TopMargin": 130.0,
             "BottomMargin": 45.0,
             "Tag": 189,
             "ActionTag": 1871779606,
             "Size": {
-              "X": 1160.0,
+              "X": 1130.0,
               "Y": 545.0
             },
             "Name": "scrollview",

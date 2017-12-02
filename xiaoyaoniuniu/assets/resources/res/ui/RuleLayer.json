@@ -98,52 +98,7 @@
               "X": 1280.0,
               "Y": 87.0
             },
-            "Name": "room_bg_top_17",
-            "ctype": "SpriteObjectData"
-          },
-          {
-            "FileData": {
-              "Type": "Normal",
-              "Path": "ui/resources/character/bg_topline_wf_word.png",
-              "Plist": ""
-            },
-            "BlendFunc": {
-              "Src": 1,
-              "Dst": 771
-            },
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 651.502,
-              "Y": 689.8091
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.509,
-              "Y": 0.9581
-            },
-            "PreSize": {
-              "X": 0.0969,
-              "Y": 0.0736
-            },
-            "LeftMargin": 589.502,
-            "RightMargin": 566.498,
-            "TopMargin": 3.6909,
-            "BottomMargin": 663.3091,
-            "Tag": 164,
-            "ActionTag": -937161837,
-            "Size": {
-              "X": 124.0,
-              "Y": 53.0
-            },
-            "Name": "bg_topline_wf_word_18",
+            "Name": "room_bg_top",
             "ctype": "SpriteObjectData"
           },
           {
@@ -161,7 +116,7 @@
               "ScaleY": 1.0
             },
             "Position": {
-              "X": 94.68,
+              "X": 60.0,
               "Y": 720.0
             },
             "Scale": {
@@ -172,15 +127,15 @@
             "IconVisible": false,
             "PositionPercentYEnabled": true,
             "PrePosition": {
-              "X": 0.074,
+              "X": 0.0469,
               "Y": 1.0
             },
             "PreSize": {
               "X": 0.0625,
               "Y": 0.1111
             },
-            "LeftMargin": 54.68,
-            "RightMargin": 1145.3201,
+            "LeftMargin": 20.0,
+            "RightMargin": 1180.0,
             "BottomMargin": 640.0,
             "Tag": 1257,
             "ActionTag": 1944591846,
@@ -329,7 +284,7 @@
               "X": 441.0,
               "Y": 174.0
             },
-            "Name": "bg_glass_20",
+            "Name": "bg_glass_left",
             "ctype": "SpriteObjectData"
           },
           {
@@ -375,41 +330,8 @@
               "X": 441.0,
               "Y": 174.0
             },
-            "Name": "bg_glass_20_0",
+            "Name": "bg_glass_right",
             "ctype": "SpriteObjectData"
-          },
-          {
-            "AnchorPoint": {},
-            "Position": {
-              "X": 95.624,
-              "Y": 614.7285
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": true,
-            "PrePosition": {
-              "X": 0.0747,
-              "Y": 0.8538
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "LeftMargin": 95.624,
-            "RightMargin": 1184.376,
-            "TopMargin": 105.2715,
-            "BottomMargin": 614.7285,
-            "Tag": 75,
-            "ActionTag": -946871624,
-            "Size": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "Name": "bug_node",
-            "ctype": "SingleNodeObjectData"
           },
           {
             "IsBounceEnabled": true,
@@ -462,57 +384,421 @@
             "TopMargin": 172.9995,
             "BottomMargin": 80.0005,
             "Tag": 2238,
-            "Children": [
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "ui/resources/unit/im_rule.png",
-                  "Plist": ""
-                },
-                "BlendFunc": {
-                  "Src": 1,
-                  "Dst": 771
-                },
-                "AnchorPoint": {
-                  "ScaleY": 1.0
-                },
-                "Position": {
-                  "X": 0.0,
-                  "Y": 3097.0
-                },
-                "Scale": {
-                  "ScaleX": 1.16,
-                  "ScaleY": 1.16
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.0,
-                  "Y": 1.0
-                },
-                "PreSize": {
-                  "X": 0.8617,
-                  "Y": 0.8619
-                },
-                "RightMargin": 140.0,
-                "BottomMargin": 427.0,
-                "Tag": 181,
-                "ActionTag": -99287366,
-                "Size": {
-                  "X": 872.0,
-                  "Y": 2670.0
-                },
-                "Name": "Sprite_1",
-                "ctype": "SpriteObjectData"
-              }
-            ],
             "ActionTag": 1620499382,
             "Size": {
               "X": 1012.0,
               "Y": 467.0
             },
-            "Name": "scrollView0",
+            "Name": "scrollView",
             "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.1987,
+              "Y": 679.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1837,
+              "Y": 0.9444
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 94.1987,
+            "RightMargin": 903.8013,
+            "TopMargin": -0.4999,
+            "BottomMargin": 639.4999,
+            "Tag": 192,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 193,
+                "ActionTag": 713535674,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -464281628,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.1979,
+              "Y": 678.5967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3947,
+              "Y": 0.9425
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 364.1979,
+            "RightMargin": 633.8021,
+            "TopMargin": 0.9033,
+            "BottomMargin": 638.0967,
+            "Tag": 194,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 195,
+                "ActionTag": -1045411524,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1421559586,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 775.197,
+              "Y": 678.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6056,
+              "Y": 0.9425
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 634.197,
+            "RightMargin": 363.803,
+            "TopMargin": 0.901,
+            "BottomMargin": 638.099,
+            "Tag": 173,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 174,
+                "ActionTag": -301453162,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 923707588,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1045.1902,
+              "Y": 678.1024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8166,
+              "Y": 0.9418
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 904.1902,
+            "RightMargin": 93.8098,
+            "TopMargin": 1.3976,
+            "BottomMargin": 637.6024,
+            "Tag": 468,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 469,
+                "ActionTag": -1969940905,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1039272946,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab3",
+            "ctype": "SpriteObjectData"
           }
         ],
         "Size": {
@@ -529,8 +815,8 @@
         "resources/bg/room_bg_top.png",
         "resources/bg/settlement_bg.png",
         "resources/button/backBtn1.png",
-        "resources/character/bg_topline_wf_word.png",
-        "resources/unit/im_rule.png"
+        "resources/button/phb_tab0.png",
+        "resources/button/phb_tab1.png"
       ],
       "ctype": "GameFileData"
     }

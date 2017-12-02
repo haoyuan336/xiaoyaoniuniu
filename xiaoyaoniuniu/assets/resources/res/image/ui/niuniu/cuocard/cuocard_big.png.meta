@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "48ac6da1-c16d-40e2-b9b7-1aaeac5b9634",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cuocard_big": {
+      "ver": "1.0.3",
+      "uuid": "58143154-91b7-4155-9202-38ad78af484c",
+      "rawTextureUuid": "48ac6da1-c16d-40e2-b9b7-1aaeac5b9634",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -18,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 984,
+      "height": 1018,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

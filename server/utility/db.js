@@ -64,7 +64,12 @@ exports.create_account = function (userid, password, callback) {
 const value = function () {
     let str = 'value(';
     for (let i = 0 ;i < arguments.length ; i ++){
-        str +=  '"' + arguments[i]  + '",'
+        if (typeof arguments[i] === 'string'){
+          str +=  '"' + arguments[i]  + '",'
+        }else {
+          str += arguments[i] + ','
+        }
+
     }
     str = str.substring(0, str.length - 1);
     str += ')';
@@ -107,11 +112,35 @@ exports.get_player_info = function (uid, cb) {
 };
 exports.is_vip_account = function (uid, cb) {
   let sql = 'select * from t_vip_account where account = ' + uid + ';';
-  query(sql, function (data) {
+  console.log('sql = ' + sql);
+  query(sql, function (err,data) {
       if (data.length === 0){
           cb(false);
       }else {
           cb(true);
       }
   })
+};
+exports.create_room = function (data, cb) {
+    let sql = 'insert into t_roominfo ' + value(
+      data.housemaster,
+      data.roomid,
+      data.houseCardCount,
+      data.roundCount,
+      data.lockRule,
+      data.rateRule,
+      data.specialType,
+      data.bankerRule
+    ) + ';';
+    query(sql, function (err, data) {
+        if (err){
+            console.log('err = ' + err);
+            throw err;
+        }else {
+            console.log('create room = ' + JSON.stringify(data));
+            if(cb){
+                cb(null,'创建成功');
+            }
+        }
+    });
 };

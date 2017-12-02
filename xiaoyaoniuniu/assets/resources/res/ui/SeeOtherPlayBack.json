@@ -74,8 +74,8 @@
             },
             "Scale9OriginX": 174,
             "Scale9OriginY": 144,
-            "Scale9Width": 484,
-            "Scale9Height": 210,
+            "Scale9Width": 679,
+            "Scale9Height": 352,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5
@@ -128,8 +128,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 646.4,
-              "Y": 554.0
+              "X": 640.0,
+              "Y": 567.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -139,17 +139,17 @@
             "IconVisible": false,
             "PositionPercentXEnabled": true,
             "PrePosition": {
-              "X": 0.505,
-              "Y": 0.7694
+              "X": 0.5,
+              "Y": 0.7875
             },
             "PreSize": {
               "X": 0.175,
               "Y": 0.0861
             },
-            "LeftMargin": 534.4,
-            "RightMargin": 521.6,
-            "TopMargin": 135.0,
-            "BottomMargin": 523.0,
+            "LeftMargin": 528.0,
+            "RightMargin": 528.0,
+            "TopMargin": 122.0,
+            "BottomMargin": 536.0,
             "Tag": 68,
             "ActionTag": 1713479649,
             "Size": {
@@ -345,7 +345,7 @@
                 "LabelText": "确 定",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "OutlineColor": {
@@ -449,7 +449,7 @@
                 "LabelText": "取 消",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "ui/resources/fonts/FZCY.ttf",
+                  "Path": "",
                   "Plist": ""
                 },
                 "OutlineColor": {
@@ -523,8 +523,7 @@
         "resources/button/button_g.png",
         "resources/button/button_o.png",
         "resources/character/word_ckhf.png",
-        "resources/character/word_qsrhfm.png",
-        "resources/fonts/FZCY.ttf"
+        "resources/character/word_qsrhfm.png"
       ],
       "ctype": "GameFileData"
     }
