@@ -126,6 +126,9 @@ cc.Class({
         }
         //创建房间成功，
         console.log('创建房间成功' + JSON.stringify(data));
+        // global.event.fire('enter_room',)
+        global.account.playerData.roomId = data.roomId;
+        global.event.fire('enter_room');
 
         //进入房间
       });

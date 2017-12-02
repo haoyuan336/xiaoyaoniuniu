@@ -62,8 +62,15 @@ cc.Class({
 
             }
         }.bind(this));
-
+        global.event.on('enter_room',this.enterRoom.bind(this));
         
+    },
+  onDestroy: function () {
+    global.event.removeListener('enter_room', this.enterRoom);
+  },
+    enterRoom: function () {
+        cc.log('enter room');
+        cc.director.loadScene('gameScene');
     },
 
     onButtonClick: function (event,customData) {
@@ -92,5 +99,6 @@ cc.Class({
     },
     update: function (dt) {
         this.houseCardCountLabel.string = global.account.playerData.housecard + '';
-    }
+    },
+
 });
