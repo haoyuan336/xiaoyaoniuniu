@@ -67,6 +67,12 @@
     "_components": [
       {
         "__id__": 75
+      },
+      {
+        "__id__": 76
+      },
+      {
+        "__id__": 77
       }
     ],
     "_prefab": null,
@@ -1842,7 +1848,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "gameTurnLabel",
+    "_name": "gameCountLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 47
@@ -2637,7 +2643,25 @@
     "node": {
       "__id__": 41
     },
-    "_enabled": true
+    "_enabled": true,
+    "houseIdLabel": {
+      "__id__": 52
+    },
+    "houseCountLabel": {
+      "__id__": 54
+    },
+    "bankerRuleLabel": {
+      "__id__": 56
+    },
+    "lockRuleLabel": {
+      "__id__": 58
+    },
+    "specialLabel": {
+      "__id__": 62
+    },
+    "rateLabel": {
+      "__id__": 64
+    }
   },
   {
     "__type__": "cc.Canvas",
@@ -2654,5 +2678,23 @@
     },
     "_fitWidth": false,
     "_fitHeight": true
+  },
+  {
+    "__type__": "fb8efLAaTRJZ51qO0pfDlAo",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true
+  },
+  {
+    "__type__": "31dd3pTrFJLybGdny1ljAAu",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true
   }
 ]

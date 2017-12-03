@@ -1,3 +1,4 @@
+import global from './../global'
 cc.Class({
     extends: cc.Component,
 
@@ -16,7 +17,7 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-
+        //登录socket
     },
 
     // called every frame, uncomment this function to activate update callback

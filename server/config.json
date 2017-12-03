@@ -2,7 +2,7 @@
   "dbconfig": {
     "user": "root",
     "password": "chu7758521",
-    "bd": "mybd"
+    "db": "mydb"
   },
   "accountServerConfig": {
     "ip": "localhost",

@@ -144,3 +144,15 @@ exports.create_room = function (data, cb) {
         }
     });
 };
+exports.get_room_info = function (roomId,cb) {
+    let sql = 'select * from t_roominfo where roomid = ' + roomId;
+    query(sql, function (err, data) {
+      if (err){
+          console.log('err' + err);
+          cb(err);
+      }else {
+          //返回数组的列表里面的第一个元素
+          cb(null, data[0]);
+      }
+    })
+};

@@ -19,7 +19,8 @@ const EventListener = function (obj) {
         for (let j = 1 ; j < arguments.length ; j ++){
           args.push(arguments[j]);
         }
-        handler(args);
+        console.log('args = ' + JSON.stringify(args));
+        handler.apply(this, args);
       }
     }else {
       console.log('regishter no have '+ type);
