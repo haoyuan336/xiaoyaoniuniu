@@ -40,7 +40,7 @@ let player = function (uid,socket) {
   that.initData = function (data) {
     console.log('初始化数据' + JSON.stringify(data));
     _seatId =data.seatId;
-    socket.emit({
+    socket.emit('init_data',{
       seatId: _seatId,
       uid: _uid,
       nickName: _nickName,
