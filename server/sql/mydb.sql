@@ -21,6 +21,6 @@ create table t_roominfo(
     roundcount int not null,
     lockrule varchar(40) not null,
     raterule varchar(40) not null,
-    specicaltypr varchar(40) not null,
+    specicaltype varchar(40) not null,
     bankerrule varchar(40) not null
 )default charset=utf8;

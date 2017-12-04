@@ -1,0 +1,20 @@
+{
+  "name_config": {
+    "linebanker": "连庄",
+    "turnbanker":"轮庄",
+    "kingbanker": "霸王庄",
+    "lock_card_all": "全扣",
+    "lock_card_1": "扣一张",
+    "lock_card_2": "扣两张",
+    "cowcow": "牛牛",
+    "cownine": "牛九",
+    "coweight": "牛八",
+    "cowseven": "牛七",
+    "fiveflower": "五花",
+    "fivesmall": "五小",
+    "cowbomb": "炸弹",
+    "sameflower": "同花",
+    "scorll": "顺子",
+    "gourd": "葫芦"
+  }
+}
