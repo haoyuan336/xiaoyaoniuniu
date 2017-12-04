@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config pluginId="399">
+    <paramLs>
+        <param name="WXAppId" bWriteIntoManifest="0" placeholderText="" required="1" bWriteIntoClient="1" bUserOffer="1" showName="应用ID" desc="微信支付应用ID"/>
+        <param name="WXAppSecret" bWriteIntoManifest="0" placeholderText="" required="0" bWriteIntoClient="1" bUserOffer="1" showName="AppSecret" desc="AppSecret，登录时必填"/>
+        <param name="callback" bWriteIntoManifest="0" placeholderText="AnySDK通知游戏服务器的地址" required="1" bWriteIntoClient="0" bUserOffer="1" showName="支付通知地址" desc="AnySDK通知游戏服务器的地址"/>
+    </paramLs>
+    <operateLs/>
+    <pluginLs>
+        <plugin name="UserWxplugin" typePlugin="0" desc="UserWxplugin"/>
+        <plugin name="ShareWxplugin" typePlugin="4" desc="ShareWxplugin"/>
+    </pluginLs>
+    <sysFrameworksLs>
+        <sysFrameworks name="SystemConfiguration.framework" required="1" path="xcodeFrameworks"/>
+        <sysFrameworks name="libsqlite3.0.dylib" required="1" path="xcodeUsrlib"/>
+        <sysFrameworks name="libxml2.dylib" required="1" path="xcodeUsrlib"/>
+        <sysFrameworks name="CoreTelephony.framework" required="1" path="xcodeFrameworks"/>
+    </sysFrameworksLs>
+    <version showVersion="2.0.7_1.7.1" code="1007" minClientVer="2.0" minFrameworkVer="2.0"><![CDATA[
+        更新内容：</br>
+        1、修复bug
+    ]]></version>
+    <remarkLs/>
+</config>
